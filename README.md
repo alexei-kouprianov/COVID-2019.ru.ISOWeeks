@@ -51,7 +51,7 @@ Or, run all scripts listed in the latter file separately. If you occasionally ru
 
     Remove.last.line.20230525.r
 
-Be careful and thoughtful though. Mindless and careless execution of scripts may damage the data. Fortunately you can always download an intact updated version from this repository.
+Be careful and thoughtful though. Mindless and careless execution of scripts may damage the data. Fortunately you can always download an intact updated version from this repository : [data.ISOweeks.xlsx](https://github.com/alexei-kouprianov/COVID-2019.ru.ISOWeeks/blob/main/data/xlsx/data.ISOweeks.xlsx)
 
 ## Illustrations
 
