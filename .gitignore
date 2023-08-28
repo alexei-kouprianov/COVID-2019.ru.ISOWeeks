@@ -1,0 +1,14 @@
+COVID.2019.ru.ods
+.~lock.COVID.2019.ru.ods#
+data/momentary.da.txt
+data/xlsx/.~*.*
+data/xlsx/COVID-19.ru.2020-01-31_2023-05-15.xlsx
+data/xlsx/COVID-19.ru.2020-01-31_2023-05-15.csv
+data/xlsx/COVID-19.ru.2020-01-31_2023-05-15.json
+data/xlsx/COVID-19.ru.stopkoronavirus_json_dump.2020-04-29_2023-05-15.xlsx
+scripts/.Rhistory
+scripts/.Rdata
+downloads/stopcoronavirus.storage.cumulative.20200429.txt
+downloads/stopcoronavirus.storage.cumulative.20200429.txt.gz
+downloads/jsonchk
+private

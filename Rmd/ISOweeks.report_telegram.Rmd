@@ -1,0 +1,13 @@
+---
+title: "COVID-19 in Russia, weekly report"
+output: html_document
+---
+
+**Коронавирус в России.** Графический update на **`r .ISOweeks.REPORT_TIMESTAMP`** (за неделю, заканчивающуюся **`r .ISOweeks.WEEK_END`**). Прирост зарегистрированных случаев за неделю -- **`r .ISOweeks.lastweek_CONFIRMED`**. Прирост связанных с COVID смертей за неделю: **`r .ISOweeks.lastweek_DEATHS`**. Суммарный прирост новых случаев за последние две недели на 100 тыс. населения -- **`r .ISOweeks.14_100`**
+
+**Лидеры по абсолютному приросту и госпитализациям за неделю (выявленные : госпитализированные : умершие)**: 
+
+```{r results='asis', echo = FALSE}
+knitr::kable(.ISOweeks.top$txt, caption="")
+```
+* **Исходные данные.** < https://стопкоронавирус.рф/information/ >

@@ -1,0 +1,136 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdftitle={COVID-19 in Russia, daily report},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\title{COVID-19 in Russia, daily report}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+\textbf{Коронавирус в России.} Графический update на \textbf{2021-08-24
+11:30:00}. Суммарное число зарегистрированных случаев по России c
+момента начала эпидемии \textasciitilde{} \textbf{6785.4} тыс. Прирост
+за сутки -- \textbf{18.8} тыс. Прирост связанных с COVID смертей за
+сутки: \textbf{794}, всего с начала эпидемии в оперативных сводках
+зарегистрировано смертей: \textbf{177638}. Суммарный прирост новых
+случаев за последние две недели на 100 тыс. населения -- \textbf{200.4}.
+Суммарное по Москве -- \textbf{1557.4} тыс., по Петербургу --
+\textbf{568.5} тыс.
+
+\textbf{Лидеры по абсолютному приросту за сутки} (\textbf{265} и более
+случаев):
+
+\begin{longtable}[]{@{}l@{}}
+\toprule
+x\tabularnewline
+\midrule
+\endhead
+Московская область : 1125\tabularnewline
+Москва : 1105\tabularnewline
+Санкт-Петербург : 600\tabularnewline
+Свердловская область : 521\tabularnewline
+Ростовская область : 483\tabularnewline
+Пермский край : 474\tabularnewline
+Воронежская область : 463\tabularnewline
+Красноярский край : 445\tabularnewline
+Самарская область : 434\tabularnewline
+Нижегородская область : 427\tabularnewline
+Иркутская область : 395\tabularnewline
+Омская область : 391\tabularnewline
+Челябинская область : 377\tabularnewline
+Республика Крым : 349\tabularnewline
+Ставропольский край : 349\tabularnewline
+Волгоградская область : 349\tabularnewline
+Оренбургская область : 347\tabularnewline
+Хабаровский край : 312\tabularnewline
+Республика Башкортостан : 300\tabularnewline
+Ульяновская область : 290\tabularnewline
+Астраханская область : 286\tabularnewline
+Архангельская область : 265\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Техническое.} В виду многочисленности графиков по регионам,
+отсылаю за ними к папкам в репозитории.
+
+\begin{itemize}
+\item
+  \textbf{Графики по регионам:} \textless{}
+  \url{https://github.com/alexei-kouprianov/COVID.2019.ru/tree/master/plots/regions}
+  \textgreater{}
+\item
+  \textbf{Скрипт и данные.} \textless{}
+  \url{https://github.com/alexei-kouprianov/COVID.2019.ru}
+  \textgreater{}
+\item
+  \textbf{Исходные данные.} \textless{}
+  \url{https://стопкоронавирус.рф/information/} \textgreater{}
+\end{itemize}
+
+\end{document}

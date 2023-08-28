@@ -1,0 +1,86 @@
+LOCUS.0	LOCUS
+Altay krai	Altay krai
+Amur region	Amur region
+Arkhangelsk	Arkhangelsk
+Astrakhan	Astrakhan
+Belgorod	Belgorod
+Briansk	Briansk
+Vladimir	Vladimir
+Volgograd	Volgograd
+Vologda	Vologda
+Voronezh	Voronezh
+Birobidzhan	Birobidzhan
+Chita	Chita
+Ivanovo	Ivanovo
+Irkutsk	Irkutsk
+Nalchik	Nalchik
+Kaliningrad	Kaliningrad
+Kaluga	Kaluga
+Kamchatka	Kamchatka
+Karachay-Cherkessia	Karachay-Cherkessia
+Kemerovo	Kemerovo
+Kirov	Kirov
+Kostroma	Kostroma
+Krasnodar	Krasnodar
+Krasnoyarsk	Krasnoyarsk
+Kurgan	Kurgan
+Kursk	Kursk
+St. Petersburg	Leningrad region
+Lipetsk	Lipetsk
+Magadan	Magadan
+Moscow	Moscow
+Moscow	Moscow region
+Murmansk	Murmansk
+Nenets AO	Nenets AO
+Nizhnii Novgorod	Nizhnii Novgorod
+Novgorod	Novgorod
+Novosibirsk	Novosibirsk
+Omsk	Omsk
+Orenburg	Orenburg
+Orel	Orel
+Penza	Penza
+Perm krai	Perm krai
+Vladivostok	Vladivostok
+Pskov	Pskov
+Adygea	Adygea
+Altay rep.	Altay rep.
+Bashkortostan	Bashkortostan
+Buryatia	Buryatia
+Dagestan	Dagestan
+Ingushetia	Ingushetia
+Kalmykia	Kalmykia
+Karelia	Karelia
+Komi	Komi
+Crimea annex.	Crimea annex.
+Mari El	Mari El
+Mordovia	Mordovia
+Yakutsk	Yakutsk
+N. Ossetia-Alania	N. Ossetia-Alania
+Kazan	Kazan
+Tyva	Tyva
+Khakassia	Khakassia
+Rostov-on-Don	Rostov-on-Don
+Ryazan	Ryazan
+Samara	Samara
+St. Petersburg	St. Petersburg
+Saratov	Saratov
+Sakhalin	Sakhalin
+Ekaterinburg	Ekaterinburg
+Sevastopol annex.	Sevastopol annex.
+Smolensk	Smolensk
+Stavropol	Stavropol
+Tambov	Tambov
+Tver	Tver
+Tomsk	Tomsk
+Tula	Tula
+Tiumen	Tiumen
+Udmurtia	Udmurtia
+Ulianovsk	Ulianovsk
+Khabarovsk	Khabarovsk
+Khanty-Mansiisk	Khanty-Mansiisk
+Cheliabinsk	Cheliabinsk
+Chechen rep.	Chechen rep.
+Chuvashia	Chuvashia
+Chukotka	Chukotka
+Yamalo-Nenets AO	Yamalo-Nenets AO
+Yaroslavl	Yaroslavl
