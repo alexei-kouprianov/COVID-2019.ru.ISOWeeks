@@ -58,13 +58,13 @@ Be careful and thoughtful though. Mindless and careless execution of scripts may
 The visualizations derived from nation-wide data are as follows.
 
 ![Y-logarithmic overview plot](plots/01.COVID-19.Russia.CHD.log.png "Y-logarithmic overview plot")
-![Confirmed cases by ISO weeks](02.COVID-19.Russia.CONFIRMED.png "Confirmed cases by ISO weeks")
-![Hospitaized by ISO weeks](03.COVID-19.Russia.HOSPITALISED.png "Hospitaized by ISO weeks")
-![Deaths by ISO weeks](04.COVID-19.Russia.DEATHS.png "Deaths by ISO weeks")
-![Regions ranked by the number of confirmed cases for the reporting week](05.COVID-19.Russia.CONFIRMED_rating.png "Regions ranked by the number of confirmed cases for the reporting week")
-![Regions ranked by the number of confirmed cases per 100K inhabitants for the reporting week](06.COVID-19.Russia.CONFIRMED_100K_rating.png "Regions ranked by the number of confirmed cases per 100K inhabitants for the reporting week")
-![Regions ranked by the number of hospitalized for the reporting week](07.COVID-19.Russia.HOSPITALISED_rating.png "Regions ranked by the number of hospitalized for the reporting week")
-![Regions ranked by the number of hospitalized per 100K inhabitants for the reporting week](08.COVID-19.Russia.HOSPITALISED_100K_rating.png "Regions ranked by the number of hospitalized per 100K inhabitants for the reporting week")
+![Confirmed cases by ISO weeks](plots/02.COVID-19.Russia.CONFIRMED.png "Confirmed cases by ISO weeks")
+![Hospitaized by ISO weeks](plots/03.COVID-19.Russia.HOSPITALISED.png "Hospitaized by ISO weeks")
+![Deaths by ISO weeks](plots/04.COVID-19.Russia.DEATHS.png "Deaths by ISO weeks")
+![Regions ranked by the number of confirmed cases for the reporting week](plots/05.COVID-19.Russia.CONFIRMED_rating.png "Regions ranked by the number of confirmed cases for the reporting week")
+![Regions ranked by the number of confirmed cases per 100K inhabitants for the reporting week](plots/06.COVID-19.Russia.CONFIRMED_100K_rating.png "Regions ranked by the number of confirmed cases per 100K inhabitants for the reporting week")
+![Regions ranked by the number of hospitalized for the reporting week](plots/07.COVID-19.Russia.HOSPITALISED_rating.png "Regions ranked by the number of hospitalized for the reporting week")
+![Regions ranked by the number of hospitalized per 100K inhabitants for the reporting week](plots/08.COVID-19.Russia.HOSPITALISED_100K_rating.png "Regions ranked by the number of hospitalized per 100K inhabitants for the reporting week")
 
 <br />
 
