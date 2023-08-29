@@ -76,5 +76,5 @@ covid.2019.ru.ISOweeks.plotting.df$REPORT_TIMESTAMP <- strptime(covid.2019.ru.IS
 
 # Rendering textual report;
 
-render("../Rmd/ISOweeks.report.Rmd")
-render("../Rmd/ISOweeks.report_telegram.Rmd")
+render("../Rmd/ISOweeks.report.Rmd", output_format = c("md_document", "html_document"))
+render("../Rmd/ISOweeks.report_telegram.Rmd", output_format = c("md_document", "html_document"))
