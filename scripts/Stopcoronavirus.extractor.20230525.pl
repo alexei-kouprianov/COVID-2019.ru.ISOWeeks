@@ -16,6 +16,7 @@ system("wget 'https://стопкоронавирус.рф/information/' -o stpk.
 my $string = "";
 my $timestamp = "";
 my $JSON = "";
+my $JSONtail = "";
 my $inputfile = '../downloads/stopcoronavirus.storage.cumulative.20230525.txt';
 my $outputfile = '../downloads/stopcoronavirus.storage.cumulative.20230525.txt.gz';
 
@@ -27,18 +28,20 @@ while (<SRC01>) {
 	if($_ =~ m/.*\<period\-date\-formatter date\=\"(.*?)\"\>/a){
 		$timestamp = $1;
 	}
-	elsif($_ =~ m/^.*?(\[\{\"title\"\:.*\}\])/a){
+	elsif($_ =~ m/^.*?(\[\{\"title\"\:.*\}\])(\x27 .*\}\])/a){
 		$JSON = $1;
+		$JSONtail = $2;
 	}
 }
-	print TGT011 $timestamp, "\t", $JSON, "\n";
-	my $JSONm = $JSON =~ s/' .*//g;
-	print TGT012 $JSONm, "\n";
+	print TGT011 $timestamp, "\t", $JSON, $JSONtail, "\n";
+	print TGT012 $JSON, "\n";
 	print TGT013 '"', $timestamp,'"', "\n";
 close TGT013;
 close TGT012;
 close TGT011;
 close SRC01;
+
+# system('sed -i "s/['] .*//g;" ../downloads/stopcoronavirus.storage.moment.20230525.json');
 
 my $status = gzip $inputfile => $outputfile
         or die "gzip failed: $GzipError\n";
