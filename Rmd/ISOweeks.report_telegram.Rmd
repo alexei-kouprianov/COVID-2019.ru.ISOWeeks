@@ -10,4 +10,4 @@ output: html_document
 ```{r results='asis', echo = FALSE}
 knitr::kable(.ISOweeks.top$txt, caption="")
 ```
-* **Исходные данные.** < https://стопкоронавирус.рф/information/ >
+* **Cкрипты и данные:** < https://github.com/alexei-kouprianov/COVID-2019.ru.ISOWeeks >

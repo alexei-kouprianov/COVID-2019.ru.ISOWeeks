@@ -11,4 +11,6 @@ scripts/.Rdata
 downloads/stopcoronavirus.storage.cumulative.20200429.txt
 downloads/stopcoronavirus.storage.cumulative.20200429.txt.gz
 downloads/jsonchk
+Rmd/*.html
+plots/regions
 private

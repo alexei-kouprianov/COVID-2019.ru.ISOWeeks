@@ -19,4 +19,5 @@ knitr::kable(.ISOweeks.top$txt, caption="")
 
 * **Скрипт и данные.** < https://github.com/alexei-kouprianov/COVID.2019.ru > -->
 
-* **Исходные данные.** < https://стопкоронавирус.рф/information/ >
+* **Исходные данные:** < https://стопкоронавирус.рф/information/ >
+* **Репозиторий со скриптами и данными:** < https://github.com/alexei-kouprianov/COVID-2019.ru.ISOWeeks >
