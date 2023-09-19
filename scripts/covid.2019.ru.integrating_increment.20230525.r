@@ -25,4 +25,7 @@ for(i in 1:regions.count){
 write.xlsx(covid.2019.ru.ISOweeks.ls,
 	file = "../data/xlsx/data.ISOweeks.xlsx",
 	sheetName = covid.2019.ru.ISOweeks.ls.names,
+	colWidths = "auto",
+	firstRow = TRUE,
+	firstCol = TRUE,
 	rowNames = FALSE)
