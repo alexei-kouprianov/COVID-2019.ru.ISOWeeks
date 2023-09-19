@@ -69,7 +69,7 @@ covid.2019.ru.ISOweeks.plotting.df$REPORT_TIMESTAMP <- strptime(covid.2019.ru.IS
 .ISOweeks.cumulated_DEATHS.txt <- gsub("(?=[0-9]{3}$)", ",", .ISOweeks.cumulated_DEATHS, perl = TRUE)
 .ISOweeks.cumulated_CONFIRMED.txt <- gsub("(?=[0-9]{3}$)|((?=[0-9]{6}$))", ",", .ISOweeks.cumulated_CONFIRMED, perl = TRUE)
 
-.ISOweeks.lastweek_CONFIRMED <- tail(covid.2019.ru.ISOweeks.plotting.df$CONFIRMED, 1)
+.ISOweeks.lastweek_CONFIRMED <- as.character(tail(covid.2019.ru.ISOweeks.plotting.df$CONFIRMED, 1))
 .ISOweeks.lastweek_DEATHS <- tail(covid.2019.ru.ISOweeks.plotting.df$DEATHS, 1)
 
 .ISOweeks.14_100 <- round(sum(tail(covid.2019.ru.ISOweeks.plotting.df$CONFIRMED, 2))/(146447424/1E+05), 2)
