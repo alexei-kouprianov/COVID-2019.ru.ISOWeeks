@@ -1,8 +1,8 @@
-**Коронавирус в России.** Графический update на **2023-09-05 11:00:00**
-(за неделю, заканчивающуюся **2023-09-10**). Прирост зарегистрированных
-случаев за неделю – **5217**. Прирост связанных с COVID смертей за
-неделю: **16**. Суммарный прирост новых случаев за последние две недели
-на 100 тыс. населения – **7.12**
+**Коронавирус в России.** Графический update на **2023-09-19 11:00:00**
+(за неделю, заканчивающуюся **2023-09-17**). Прирост зарегистрированных
+случаев за неделю – **1.1516^{4}**. Прирост связанных с COVID смертей за
+неделю: **14**. Суммарный прирост новых случаев за последние две недели
+на 100 тыс. населения – **11.43**
 
 **Лидеры по абсолютному приросту и госпитализациям за неделю (выявленные
 : госпитализированные : умершие)**:
@@ -15,55 +15,49 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Москва :: 1857 : 434 : 1</td>
+<td style="text-align: left;">Москва :: 4617 : 590 : 3</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Санкт-Петербург :: 475 : 29 : 3</td>
+<td style="text-align: left;">Санкт-Петербург :: 1130 : 107 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Башкортостан :: 170 : 35 : 2</td>
+<td style="text-align: left;">Башкортостан :: 320 : 57 : 1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Самарская обл. :: 147 : 11 : 0</td>
+<td style="text-align: left;">Чувашская Республика :: 312 : 31 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Краснодарский кр. :: 144 : 34 : 0</td>
+<td style="text-align: left;">Свердловская обл. :: 310 : 65 : 2</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Пермский кр. :: 123 : 19 : 0</td>
+<td style="text-align: left;">Самарская обл. :: 308 : 31 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Свердловская обл. :: 117 : 20 : 4</td>
+<td style="text-align: left;">Пермский кр. :: 296 : 52 : 1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Челябинская обл. :: 103 : 32 : 0</td>
+<td style="text-align: left;">Краснодарский кр. :: 241 : 86 : 1</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Московская обл. :: 99 : 31 : 0</td>
+<td style="text-align: left;">Челябинская обл. :: 229 : 72 : 0</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Приморский кр. :: 91 : 18 : 0</td>
+<td style="text-align: left;">Нижегородская обл. :: 207 : 29 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Чувашская Республика :: 90 : 11 : 0</td>
+<td style="text-align: left;">Московская обл. :: 176 : 36 : 0</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Омская обл. :: 83 : 20 : 0</td>
+<td style="text-align: left;">Приморский кр. :: 169 : 50 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Алтайский кр. :: 74 : 23 : 0</td>
+<td style="text-align: left;">Ставропольский кр. :: 146 : 25 : 1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Астраханская обл. :: 74 : 37 : 1</td>
+<td style="text-align: left;">Саратовская обл. :: 133 : 28 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Саратовская обл. :: 73 : 23 : 0</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Татарстан :: 54 : 42 : 0</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Пензенская обл. :: 41 : 23 : 0</td>
+<td style="text-align: left;">Татарстан :: 77 : 82 : 0</td>
 </tr>
 </tbody>
 </table>
