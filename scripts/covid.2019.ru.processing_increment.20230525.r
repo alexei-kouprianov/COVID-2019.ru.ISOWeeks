@@ -30,11 +30,7 @@ ISOweek.regional.increment.CRDH$LOCUS.0 <- as.character(ISOweek.regional.increme
 ISOweek.regional.increment.CRDH$LOCUS <- as.character(ISOweek.regional.increment.CRDH$LOCUS)
 ISOweek.regional.increment.CRDH$POPULATION <- ISOweek.population$POPULATION.20230101.total
 
-# Loading and trimming timestamp;
-# This section loads timestamp and results in text vector of length 1 reporting.REPORT_TIMESTAMP;
-
-reporting.REPORT_TIMESTAMP <- read.table("../downloads/stopcoronavirus.timestamp.moment.20230525.txt", h = FALSE, stringsAsFactors = FALSE)
-reporting.REPORT_TIMESTAMP <- as.character(strptime(reporting.REPORT_TIMESTAMP$V1, format = "%d.%m.%Y %H:%M:%S"))
+# Loading and trimming timestamp was transferred to covid.2019.ru.loading_data_and_misc.20230525.r;
 
 # Calculating reporting TIME;
 # This section results in text vector of length 1 reporting.TIME.new;

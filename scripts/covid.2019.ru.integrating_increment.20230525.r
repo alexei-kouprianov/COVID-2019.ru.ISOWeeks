@@ -20,12 +20,22 @@ for(i in 1:regions.count){
 	covid.2019.ru.ISOweeks.ls[[i]] <- rbind.data.frame(covid.2019.ru.ISOweeks.ls[[i]], regional.increment)
 	}
 
-# Saving XLSX backup file;
+# If fork double checks for increment integration mistakes;
 
-write.xlsx(covid.2019.ru.ISOweeks.ls,
-	file = "../data/xlsx/data.ISOweeks.xlsx",
-	sheetName = covid.2019.ru.ISOweeks.ls.names,
-	colWidths = "auto",
-	firstRow = TRUE,
-	firstCol = TRUE,
-	rowNames = FALSE)
+if(tail(covid.2019.ru.ISOweeks.ls[[1]]$TIME, 2)[1] !=
+    tail(covid.2019.ru.ISOweeks.ls[[1]]$TIME, 2)[2]){
+        if(tail(covid.2019.ru.ISOweeks.ls[[1]]$REPORT_TIMESTAMP, 2)[1] !=
+        tail(covid.2019.ru.ISOweeks.ls[[1]]$REPORT_TIMESTAMP, 2)[2]){
+
+            # Saving XLSX backup file;
+
+			write.xlsx(covid.2019.ru.ISOweeks.ls,
+				file = "../data/xlsx/data.ISOweeks.xlsx",
+				sheetName = covid.2019.ru.ISOweeks.ls.names,
+				colWidths = "auto",
+				firstRow = TRUE,
+				firstCol = TRUE,
+				rowNames = FALSE)
+
+            } else{print("Fatal error: two last instances of REPORT_TIMESTAMP identical!")}
+        } else{print("Fatal error: two last instances of TIME identical!")}
