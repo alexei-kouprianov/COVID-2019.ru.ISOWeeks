@@ -1,15 +1,15 @@
---2023-10-17 20:04:49--  https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+--2023-10-24 10:23:13--  https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
 Resolving xn--80aesfpebagmfblc0a.xn--p1ai (xn--80aesfpebagmfblc0a.xn--p1ai)... 89.208.230.179
 Connecting to xn--80aesfpebagmfblc0a.xn--p1ai (xn--80aesfpebagmfblc0a.xn--p1ai)|89.208.230.179|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 212374 (207K) [text/html]
+Length: 212387 (207K) [text/html]
 Saving to: ‘stopcoronavirus.rf.20230525.txt’
 
-     0K .......... .......... .......... .......... .......... 24%  456K 0s
-    50K .......... .......... .......... .......... .......... 48%  339K 0s
-   100K .......... .......... .......... .......... .......... 72%  366K 0s
-   150K .......... .......... .......... .......... .......... 96%  380K 0s
-   200K .......                                               100% 13.8T=0.5s
+     0K .......... .......... .......... .......... .......... 24%  630K 0s
+    50K .......... .......... .......... .......... .......... 48%  710K 0s
+   100K .......... .......... .......... .......... .......... 72% 4.92M 0s
+   150K .......... .......... .......... .......... .......... 96% 1.11M 0s
+   200K .......                                               100% 13.8T=0.2s
 
-2023-10-17 20:04:50 (395 KB/s) - ‘stopcoronavirus.rf.20230525.txt’ saved [212374/212374]
+2023-10-24 10:23:14 (1018 KB/s) - ‘stopcoronavirus.rf.20230525.txt’ saved [212387/212387]
 
