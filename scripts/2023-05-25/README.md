@@ -1,0 +1,1 @@
+All scripts in this folder are saved for archivation purposes only. They were intended to be run from scripts/ folder and expect pre-2023-10-31 data downloads in JSON format. They were replace with the scripts with .20231031 interfix.
