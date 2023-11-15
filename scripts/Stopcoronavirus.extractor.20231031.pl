@@ -8,6 +8,7 @@ use IO::Compress::Gzip qw(gzip $GzipError) ;
 # 20231031 in the filenames = the date when https://стопкоронавирус.рф/ was replaced with
 # https://%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D1%8F%D0%B5%D0%BC.%D1%80%D1%84/stopkoronavirus/
 # https://объясняем.рф/stopkoronavirus/ and the reporting format changed;
+# wget 'https://объясняем.рф/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-29-987-chelovek/' -o post_2023-10-31.log -O ../downloads/post_2023-10-31.txt
 
 # <div class="u-table-cv"><div class="u-table-cv__wrapper"><table cellpadding="0" cellspacing="0">
 
@@ -59,16 +60,19 @@ open (TGT031, '>>../data/post_2023-10-31/post_2023-10-31.regions.txt') or die $!
 open (TGT032, '>>../data/post_2023-10-31/post_2023-10-31.federal_disctricts.txt') or die $!;
 open (TGT033, '>>../data/post_2023-10-31/post_2023-10-31.Russian_foederation.txt') or die $!;
     while(<SRC03>){
+# 'Умерло' \xd0\xa3\xd0\xbc\xd0\xb5\xd1\x80\xd0\xbb\xd0\xbe
+        if($_ !~ m/\xd0\xa3\xd0\xbc\xd0\xb5\xd1\x80\xd0\xbb\xd0\xbe/a){
 # 'едерац' \xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd1\x86
-        if($_ =~ m/\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd1\x86/a){
-            print TGT033 $timestamp, "\t", $_;
-            }
+            if($_ =~ m/\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd1\x86/a){
+                print TGT033 $timestamp, "\t", $_;
+                }
 # 'едерал' \xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd0\xbb
-        elsif($_ =~ m/\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd0\xbb/a){
-            print TGT032 $timestamp, "\t", $_;
+            elsif($_ =~ m/\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd0\xbb/a){
+                print TGT032 $timestamp, "\t", $_;
+                }
+            else{
+                print TGT031 $_;
             }
-        else{
-            print TGT031 $_;
         }
     }
 close(TGT033);
