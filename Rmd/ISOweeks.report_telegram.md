@@ -1,8 +1,8 @@
-**Коронавирус в России.** Графический update на **2023-11-12 12:34:56**
-(за неделю, заканчивающуюся **2023-11-12**). Прирост зарегистрированных
-случаев за неделю – **41386**. Прирост связанных с COVID смертей за
-неделю: **76**. Суммарный прирост новых случаев за последние две недели
-на 100 тыс. населения – **51.61**
+**Коронавирус в России.** Графический update на **2023-11-19 12:34:56**
+(за неделю, заканчивающуюся **2023-11-19**). Прирост зарегистрированных
+случаев за неделю – **58150**. Прирост связанных с COVID смертей за
+неделю: **93**. Суммарный прирост новых случаев за последние две недели
+на 100 тыс. населения – **67.97**
 
 **Лидеры по абсолютному приросту и госпитализациям за неделю (выявленные
 : госпитализированные : умершие)**:
@@ -15,47 +15,62 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Москва :: 8173 : 746 : 13</td>
+<td style="text-align: left;">Москва :: 10201 : 899 : 19</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Санкт-Петербург :: 3694 : 455 : 23</td>
+<td style="text-align: left;">Санкт-Петербург :: 5834 : 452 : 19</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Самарская обл. :: 1856 : 148 : 1</td>
+<td style="text-align: left;">Самарская обл. :: 2790 : 138 : 1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Пермский кр. :: 1551 : 215 : 4</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Удмуртская Республика :: 1531 : 120 :
+<td style="text-align: left;">Удмуртская Республика :: 2582 : 122 :
 1</td>
 </tr>
+<tr class="odd">
+<td style="text-align: left;">Пермский кр. :: 2404 : 204 : 6</td>
+</tr>
 <tr class="even">
-<td style="text-align: left;">Саха (Якутия) :: 1364 : 133 : 0</td>
+<td style="text-align: left;">Ханты-Мансийский АО :: 1879 : 113 : 2</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Ханты-Мансийский АО :: 1246 : 114 : 1</td>
+<td style="text-align: left;">Саха (Якутия) :: 1569 : 109 : 0</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Свердловская обл. :: 951 : 137 : 6</td>
+<td style="text-align: left;">Тюменская обл. :: 1467 : 122 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Тюменская обл. :: 942 : 117 : 0</td>
+<td style="text-align: left;">Челябинская обл. :: 1328 : 212 : 7</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Воронежская обл. :: 912 : 84 : 0</td>
+<td style="text-align: left;">Нижегородская обл. :: 1264 : 94 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Челябинская обл. :: 880 : 103 : 5</td>
+<td style="text-align: left;">Свердловская обл. :: 1229 : 146 : 4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Башкортостан :: 858 : 99 : 0</td>
+<td style="text-align: left;">Воронежская обл. :: 1183 : 91 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Краснодарский кр. :: 717 : 184 : 4</td>
+<td style="text-align: left;">Кемеровская обл. :: 1135 : 162 : 9</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Татарстан :: 570 : 182 : 0</td>
+<td style="text-align: left;">Башкортостан :: 972 : 174 : 3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Иркутская обл. :: 934 : 189 : 0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Краснодарский кр. :: 857 : 177 : 1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Красноярский кр. :: 844 : 229 : 0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Архангельская обл. :: 715 : 156 : 0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Татарстан :: 596 : 188 : 0</td>
 </tr>
 </tbody>
 </table>
