@@ -2,15 +2,15 @@
 <html xml:lang="ru" lang="ru" itemscope itemtype="http://schema.org/WebSite">
 <head>
     <!-- head_start -->
-    <title>В России за неделю выздоровело 54 797 человек | Объясняем.рф</title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/critical.28ae47f1.css"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>В России за неделю выздоровело 69 636 человек | Объясняем.рф</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/critical.03d2a237.css"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="robots" content="index, follow" />
-<meta name="description" content="В России за неделю выздоровело 54 797 человек | Официальный сайт Объясняем.рф" />
-<link rel="canonical" href="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/" />
+<meta name="description" content="В России за неделю выздоровело 69 636 человек | Официальный сайт Объясняем.рф" />
+<link rel="canonical" href="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-69-636-chelovek/" />
 <script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
 
 
-<link href="/bitrix/cache/css/s1/media_default/template_babe5bd6760b9c4653d591f16a1e439c/template_babe5bd6760b9c4653d591f16a1e439c_v1.css?17011795283991" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/media_default/template_a103cf707e6d46c7f1ce488bb30b520b/template_a103cf707e6d46c7f1ce488bb30b520b_v1.css?17017786453991" type="text/css"  data-template-style="true" rel="stylesheet" />
 
 
 
@@ -25,9 +25,9 @@
 <meta property="og:type" content="website">
 <meta property="twitter:card" content="summary">
 <meta property="og:site_name" content="Объясняем.рф - официально о том, что происходит">
-<meta property="og:url" content="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/">
-<meta property="og:title" content="В России за неделю выздоровело 54 797 человек | Объясняем.рф">
-<meta property="og:description" content="В России за неделю выздоровело 54 797 человек | Официальный сайт Объясняем.рф">
+<meta property="og:url" content="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-69-636-chelovek/">
+<meta property="og:title" content="В России за неделю выздоровело 69 636 человек | Объясняем.рф">
+<meta property="og:description" content="В России за неделю выздоровело 69 636 человек | Официальный сайт Объясняем.рф">
 
 
 
@@ -70,9 +70,9 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 
 <!-- Сберселлер и Adfox adf -->
 <link rel="preload" href="https://ssp.rambler.ru/capirs_async.js" as="script">
-<!-- / Сберселлер и Adfox adf -->    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/chunk-vendors.859f4391.css"><link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/main.04490e0d.css"></head>
+<!-- / Сберселлер и Adfox adf -->    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/chunk-vendors.859f4391.css"><link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/main.a5a730bf.css"></head>
 <body>
-    <div id="adblock"  class="adfox-top-wrapper adv advertisement advertising">
+<div id="adblock"  class="adfox-top-wrapper adv advertisement advertising">
 	<div id="BillboardCOM">
 			</div>
 </div><div id="app" v-cloak>
@@ -80,10 +80,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
     <push-social></push-social>
 
     <div id="svg-icons" style="display: none"></div>
-            <div id="adblock" class="adfox-top-wrapper-mobile adv advertisement advertising">
+    <div id="adblock" class="adfox-top-wrapper-mobile adv advertisement advertising">
 	<div id="Top_bannerCOM">
 			</div>
-</div>        <div id="panel"></div>
+</div>    <div id="panel"></div>
     <div class="wrapper" id="wrapper" data-v-sticky-container>
                 
                     <header-new cdn-prefix="https://cdn.obyasnyaem.ru">
@@ -250,112 +250,98 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
             >
                 <link itemprop="mainEntityOfPage" href="https://xn--90aivcdt6dxbc.xn--p1ai"/>
 <div class="article-detail__intro">
-    <h1 itemprop="headline name" class="article-detail__title-main u-page-title">В России за неделю выздоровело 54 797 человек</h1>
-    <div class="article-detail__intro-date">28 ноября</div>
+    <h1 itemprop="headline name" class="article-detail__title-main u-page-title">В России за неделю выздоровело 69 636 человек</h1>
+    <div class="article-detail__intro-date">5 декабря</div>
             <div class="article-detail__intro-banner">
             <picture>
                 <source
                     type="image/webp"
-                    srcset="https://cdn.obyasnyaem.ru/upload/webp/58e/1dfxaykriwuqhso8uf0g39og0227epbc/RIA_8419274.HR.webp 1x"
+                    srcset="https://cdn.obyasnyaem.ru/upload/webp/690/8yqajxvhwej5b1o45kn2j7wkr7tt5sfr/444.webp 1x"
                 >
                 <img
-                    src="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/58e/1dfxaykriwuqhso8uf0g39og0227epbc/974_549_1/RIA_8419274.HR.jpg"
+                    src="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/690/8yqajxvhwej5b1o45kn2j7wkr7tt5sfr/974_549_1/444.jpg"
                     loading="lazy"
-                    alt="Пациентка на приеме у врача "                                    >
-                <link itemprop="image" href="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/58e/1dfxaykriwuqhso8uf0g39og0227epbc/974_549_1/RIA_8419274.HR.jpg">
+                    alt="Врач измеряет температуру мужчине "                                    >
+                <link itemprop="image" href="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/690/8yqajxvhwej5b1o45kn2j7wkr7tt5sfr/974_549_1/444.jpg">
             </picture>
             <div
-                class="article-detail__intro-photo-author">Евгений Биятов/РИА Новости</div>
+                class="article-detail__intro-photo-author">Илья Питалев/РИА Новости</div>
         </div>
     </div>
 <div class="article-detail__body">
     <div itemprop="articleBody"
          class="article-detail__content ">
         <p>
-	 За 47-ю неделю 2023 года (с 20 по 26 ноября) в стране количество госпитализаций составило 8 018 человек и увеличилось в сравнении с предшествующей неделей на 25,3%.
+	 За 48-ю неделю 2023 года (с 27 ноября по 3 декабря) в стране госпитализирован 8 981 человек, количество госпитализаций увеличилось в сравнении с предшествующей неделей на 12%.
 </p>
 <p>
-	 Увеличение числа госпитализаций произошло в 66 субъектах РФ, в том числе в 33 регионах увеличение более, чем в среднем по России.
+	 Увеличение числа госпитализаций произошло в 52 субъектах РФ, в том числе в 26 регионах увеличение более, чем в среднем по России.
 </p>
 <p>
-	 Выздоровело 54 797 человек, или на 37,9% больше в сравнении с предыдущей неделей.
+	 Выздоровело 69 636 человек, или на 27,1% больше в сравнении с предыдущей неделей.
 </p>
 <p>
-	 Показатель заболеваемости новой коронавирусной инфекцией за прошедшую неделю на 100 тыс. населения составил 54,47 и увеличился в сравнении с предыдущей неделей на 32,8%. Увеличение заболеваемости отмечено в 79 субъектах РФ, в том числе в 27 регионах более, чем в среднем по стране.
+	 Показатель заболеваемости новой коронавирусной инфекцией за прошедшую неделю на 100 тыс. населения составил 66,92 и увеличился в сравнении с предыдущей неделей на 22,8%. Увеличение заболеваемости отмечено в 73 субъектах РФ, в том числе в 29 регионах более, чем в среднем по стране.
 </p>
 <p>
-	 Умерло за неделю 90 человек.
+	 Умерло за неделю 138 человек. <br>
+</p>
+<h3>
+По состоянию за 48 нед. 2023 г. (27.11 - 03.12.2023) </h3>
+<p>
 </p>
 <div class="u-table-cv"><div class="u-table-cv__wrapper"><table cellpadding="0" cellspacing="0">
- <colgroup> </colgroup>
+ <colgroup><col> <col> <col> <col> <col> </colgroup>
 <tbody>
 <tr>
-	<td colspan="5">
-		<h3>По состоянию за 47 нед. 2023 г. (20.11 - 26.11.2023)</h3>
-	</td>
-</tr>
-<tr>
 	<td>
- <b>Наименование субъекта </b><b> </b>
+ <b>Наименование субъекта</b>
 	</td>
 	<td>
- <b> </b><b>
-		Госпитализировано </b><b> </b>
+ <b>Госпитализировано</b>
 	</td>
 	<td>
- <b> </b><b>
-		Выздоровело </b><b> </b>
+ <b>Выздоровело</b>
 	</td>
 	<td>
- <b> </b><b>
-		Выявлено </b><b> </b>
+ <b>Выявлено</b>
 	</td>
 	<td>
- <b> </b><b>
-		Умерло&nbsp;</b>
+ <b>Умерло</b>
 	</td>
 </tr>
 <tr>
 	<td style="background-color: #ffff00;">
- <b>Российская Федерация </b><b> </b>
+ <b>Российская Федерация</b>
 	</td>
 	<td style="background-color: #ffff00;">
- <b> </b><b>
-		8 018 </b><b> </b>
+ <b>8 981</b>
 	</td>
 	<td style="background-color: #ffff00;">
- <b> </b><b>
-		54 797 </b><b> </b>
+ <b>69 636</b>
 	</td>
 	<td style="background-color: #ffff00;">
- <b> </b><b>
-		77 106 </b><b> </b>
+ <b>95 079</b>
 	</td>
 	<td style="background-color: #ffff00;">
- <b> </b><b>
-		90 </b><b> </b>
+ <b>138</b>
 	</td>
 </tr>
 <tr>
 	<td>
- <b> </b><b>
-		Центральный федеральный округ </b><b> </b>
+ <b>Центральный федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		2 043 </b><b> </b>
+ <b>2 311</b>
 	</td>
 	<td>
- <b> </b><b>
-		16088 </b><b> </b>
+ <b>21983</b>
 	</td>
 	<td>
- <b> </b><b>
-		22616 </b><b> </b>
+ <b>28902</b>
 	</td>
 	<td>
- <b> </b><b>
-		27</b>
+ <b>51</b>
 	</td>
 </tr>
 <tr>
@@ -363,13 +349,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Белгородская область
 	</td>
 	<td>
-		 86
+		 100
 	</td>
 	<td>
-		 162
+		 466
 	</td>
 	<td>
-		 387
+		 562
 	</td>
 	<td>
 		 0
@@ -383,27 +369,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 41
 	</td>
 	<td>
-		 490
+		 622
 	</td>
 	<td>
-		 551
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Владимирская область
-	</td>
-	<td>
-		 68
-	</td>
-	<td>
-		 368
-	</td>
-	<td>
-		 827
+		 859
 	</td>
 	<td>
 		 0
@@ -411,16 +380,33 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 </tr>
 <tr>
 	<td>
+		 Владимирская область
+	</td>
+	<td>
+		 66
+	</td>
+	<td>
+		 419
+	</td>
+	<td>
+		 1006
+	</td>
+	<td>
+		 5
+	</td>
+</tr>
+<tr>
+	<td>
 		 Воронежская область
 	</td>
 	<td>
-		 103
+		 114
 	</td>
 	<td>
-		 781
+		 1 949
 	</td>
 	<td>
-		 1496
+		 2349
 	</td>
 	<td>
 		 0
@@ -431,16 +417,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ивановская область
 	</td>
 	<td>
-		 83
+		 97
 	</td>
 	<td>
-		 81
+		 45
 	</td>
 	<td>
-		 537
+		 621
 	</td>
 	<td>
-		 1
+		 4
 	</td>
 </tr>
 <tr>
@@ -448,13 +434,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Калужская область
 	</td>
 	<td>
-		 58
+		 69
 	</td>
 	<td>
-		 301
+		 353
 	</td>
 	<td>
-		 368
+		 526
 	</td>
 	<td>
 		 0
@@ -465,13 +451,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Костромская область
 	</td>
 	<td>
-		 22
+		 40
 	</td>
 	<td>
-		 39
+		 30
 	</td>
 	<td>
-		 76
+		 118
 	</td>
 	<td>
 		 0
@@ -482,13 +468,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Курская область
 	</td>
 	<td>
-		 33
+		 30
 	</td>
 	<td>
-		 92
+		 170
 	</td>
 	<td>
-		 191
+		 234
 	</td>
 	<td>
 		 0
@@ -499,13 +485,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Липецкая область
 	</td>
 	<td>
-		 29
-	</td>
-	<td>
-		 182
+		 38
 	</td>
 	<td>
 		 316
+	</td>
+	<td>
+		 531
 	</td>
 	<td>
 		 1
@@ -516,13 +502,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Московская область
 	</td>
 	<td>
-		 102
+		 18
 	</td>
 	<td>
-		 1 245
+		 1 252
 	</td>
 	<td>
-		 1483
+		 1504
 	</td>
 	<td>
 		 0
@@ -533,13 +519,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Орловская область
 	</td>
 	<td>
-		 56
+		 68
 	</td>
 	<td>
-		 222
+		 346
 	</td>
 	<td>
-		 269
+		 481
 	</td>
 	<td>
 		 0
@@ -550,16 +536,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Рязанская область
 	</td>
 	<td>
-		 35
+		 40
 	</td>
 	<td>
-		 324
+		 534
 	</td>
 	<td>
-		 588
+		 813
 	</td>
 	<td>
-		 5
+		 2
 	</td>
 </tr>
 <tr>
@@ -567,13 +553,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Смоленская область
 	</td>
 	<td>
-		 50
+		 41
 	</td>
 	<td>
-		 90
+		 140
 	</td>
 	<td>
-		 209
+		 210
 	</td>
 	<td>
 		 0
@@ -584,13 +570,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Тамбовская область
 	</td>
 	<td>
-		 23
+		 42
 	</td>
 	<td>
-		 101
+		 167
 	</td>
 	<td>
-		 191
+		 218
 	</td>
 	<td>
 		 0
@@ -601,13 +587,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Тверская область
 	</td>
 	<td>
-		 26
+		 33
 	</td>
 	<td>
-		 827
+		 949
 	</td>
 	<td>
-		 927
+		 1366
 	</td>
 	<td>
 		 0
@@ -618,13 +604,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Тульская область
 	</td>
 	<td>
-		 30
+		 28
 	</td>
 	<td>
-		 124
+		 31
 	</td>
 	<td>
-		 198
+		 233
 	</td>
 	<td>
 		 0
@@ -635,13 +621,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ярославская область
 	</td>
 	<td>
-		 76
+		 71
 	</td>
 	<td>
-		 140
+		 230
 	</td>
 	<td>
-		 412
+		 533
 	</td>
 	<td>
 		 0
@@ -652,37 +638,33 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Москва
 	</td>
 	<td>
-		 1 122
+		 1 375
 	</td>
 	<td>
-		 10 519
+		 13 964
 	</td>
 	<td>
-		 13590
+		 16738
 	</td>
 	<td>
-		 19
+		 39
 	</td>
 </tr>
 <tr>
 	<td>
- <b>Северо-Западный федеральный округ </b><b> </b>
+ <b>Северо-Западный федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		1189 </b><b> </b>
+ <b>1430</b>
 	</td>
 	<td>
- <b> </b><b>
-		8949 </b><b> </b>
+ <b>10971</b>
 	</td>
 	<td>
- <b> </b><b>
-		13049 </b><b> </b>
+ <b>16512</b>
 	</td>
 	<td>
- <b> </b><b>
-		30</b>
+ <b>26</b>
 	</td>
 </tr>
 <tr>
@@ -690,13 +672,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Карелия
 	</td>
 	<td>
-		 54
+		 36
 	</td>
 	<td>
-		 165
+		 370
 	</td>
 	<td>
-		 337
+		 419
 	</td>
 	<td>
 		 0
@@ -707,16 +689,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Коми
 	</td>
 	<td>
-		 132
+		 126
 	</td>
 	<td>
-		 101
+		 364
 	</td>
 	<td>
-		 360
+		 450
 	</td>
 	<td>
-		 4
+		 0
 	</td>
 </tr>
 <tr>
@@ -724,13 +706,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Архангельская область
 	</td>
 	<td>
-		 157
+		 195
 	</td>
 	<td>
-		 648
+		 758
 	</td>
 	<td>
-		 1061
+		 1200
 	</td>
 	<td>
 		 0
@@ -741,13 +723,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ненецкий автономный округ
 	</td>
 	<td>
-		 3
+		 1
 	</td>
 	<td>
-		 15
+		 59
 	</td>
 	<td>
-		 46
+		 75
 	</td>
 	<td>
 		 0
@@ -758,13 +740,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Вологодская область
 	</td>
 	<td>
-		 44
+		 52
 	</td>
 	<td>
-		 251
+		 243
 	</td>
 	<td>
-		 358
+		 524
 	</td>
 	<td>
 		 0
@@ -775,13 +757,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Калининградская область
 	</td>
 	<td>
-		 72
+		 110
 	</td>
 	<td>
-		 453
+		 457
 	</td>
 	<td>
-		 486
+		 574
 	</td>
 	<td>
 		 1
@@ -792,13 +774,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ленинградская область
 	</td>
 	<td>
-		 34
+		 61
 	</td>
 	<td>
-		 835
+		 1 101
 	</td>
 	<td>
-		 1284
+		 1908
 	</td>
 	<td>
 		 0
@@ -809,13 +791,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Мурманская область
 	</td>
 	<td>
-		 61
+		 66
 	</td>
 	<td>
-		 491
+		 828
 	</td>
 	<td>
-		 635
+		 613
 	</td>
 	<td>
 		 0
@@ -826,13 +808,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Новгородская область
 	</td>
 	<td>
-		 35
+		 42
 	</td>
 	<td>
-		 127
+		 199
 	</td>
 	<td>
-		 191
+		 300
 	</td>
 	<td>
 		 0
@@ -843,16 +825,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Псковская область
 	</td>
 	<td>
-		 47
+		 63
 	</td>
 	<td>
-		 276
+		 92
 	</td>
 	<td>
-		 281
+		 434
 	</td>
 	<td>
-		 2
+		 1
 	</td>
 </tr>
 <tr>
@@ -860,37 +842,33 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Санкт-Петербург
 	</td>
 	<td>
-		 550
+		 678
 	</td>
 	<td>
-		 5 587
+		 6 500
 	</td>
 	<td>
-		 8010
+		 10015
 	</td>
 	<td>
-		 23
+		 24
 	</td>
 </tr>
 <tr>
 	<td>
- <b>Южный федеральный округ </b><b> </b>
+ <b>Южный федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		437 </b><b> </b>
+ <b>433</b>
 	</td>
 	<td>
- <b> </b><b>
-		2258 </b><b> </b>
+ <b>2411</b>
 	</td>
 	<td>
- <b> </b><b>
-		2528 </b><b> </b>
+ <b>3072</b>
 	</td>
 	<td>
- <b> </b><b>
-		3</b>
+ <b>3</b>
 	</td>
 </tr>
 <tr>
@@ -898,16 +876,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Адыгея
 	</td>
 	<td>
-		 14
+		 8
 	</td>
 	<td>
-		 12
+		 23
 	</td>
 	<td>
-		 42
+		 46
 	</td>
 	<td>
-		 2
+		 1
 	</td>
 </tr>
 <tr>
@@ -915,10 +893,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Калмыкия
 	</td>
 	<td>
-		 9
+		 10
 	</td>
 	<td>
-		 109
+		 137
 	</td>
 	<td>
 		 117
@@ -932,13 +910,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Крым
 	</td>
 	<td>
-		 39
+		 43
 	</td>
 	<td>
-		 204
+		 276
 	</td>
 	<td>
-		 222
+		 228
 	</td>
 	<td>
 		 0
@@ -949,13 +927,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Краснодарский край
 	</td>
 	<td>
-		 164
+		 188
 	</td>
 	<td>
-		 848
+		 736
 	</td>
 	<td>
-		 816
+		 866
 	</td>
 	<td>
 		 1
@@ -966,16 +944,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Астраханская область
 	</td>
 	<td>
-		 77
+		 51
 	</td>
 	<td>
-		 280
+		 350
 	</td>
 	<td>
-		 283
+		 356
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -983,13 +961,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Волгоградская область
 	</td>
 	<td>
-		 57
+		 65
 	</td>
 	<td>
-		 136
+		 132
 	</td>
 	<td>
-		 221
+		 390
 	</td>
 	<td>
 		 0
@@ -1000,13 +978,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ростовская область
 	</td>
 	<td>
-		 53
+		 57
 	</td>
 	<td>
-		 478
+		 627
 	</td>
 	<td>
-		 616
+		 771
 	</td>
 	<td>
 		 0
@@ -1017,13 +995,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Севастополь
 	</td>
 	<td>
-		 24
+		 11
 	</td>
 	<td>
-		 191
+		 130
 	</td>
 	<td>
-		 211
+		 298
 	</td>
 	<td>
 		 0
@@ -1031,23 +1009,19 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 </tr>
 <tr>
 	<td>
- <b>Северо-Кавказский федеральный округ </b><b> </b>
+ <b>Северо-Кавказский федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		152 </b><b> </b>
+ <b>178</b>
 	</td>
 	<td>
- <b> </b><b>
-		864 </b><b> </b>
+ <b>1026</b>
 	</td>
 	<td>
- <b> </b><b>
-		1032 </b><b> </b>
+ <b>1248</b>
 	</td>
 	<td>
- <b> </b><b>
-		0</b>
+ <b>1</b>
 	</td>
 </tr>
 <tr>
@@ -1055,13 +1029,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Дагестан
 	</td>
 	<td>
-		 25
+		 6
 	</td>
 	<td>
-		 47
+		 68
 	</td>
 	<td>
-		 55
+		 50
 	</td>
 	<td>
 		 0
@@ -1072,13 +1046,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Ингушетия
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 	<td>
-		 3
+		 7
 	</td>
 	<td>
-		 15
+		 12
 	</td>
 	<td>
 		 0
@@ -1092,7 +1066,7 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 23
 	</td>
 	<td>
-		 72
+		 87
 	</td>
 	<td>
 		 101
@@ -1106,13 +1080,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Карачаево-Черкесская Республика
 	</td>
 	<td>
-		 7
+		 4
 	</td>
 	<td>
-		 57
+		 55
 	</td>
 	<td>
-		 61
+		 76
 	</td>
 	<td>
 		 0
@@ -1123,13 +1097,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Северная Осетия — Алания
 	</td>
 	<td>
-		 6
+		 4
 	</td>
 	<td>
-		 30
+		 22
 	</td>
 	<td>
-		 34
+		 39
 	</td>
 	<td>
 		 0
@@ -1143,10 +1117,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 0
 	</td>
 	<td>
-		 22
+		 3
 	</td>
 	<td>
-		 22
+		 14
 	</td>
 	<td>
 		 0
@@ -1157,51 +1131,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ставропольский край
 	</td>
 	<td>
-		 91
+		 140
 	</td>
 	<td>
-		 633
+		 784
 	</td>
 	<td>
-		 744
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
- <b>Приволжский федеральный округ </b><b> </b>
-	</td>
-	<td>
- <b> </b><b>
-		1690 </b><b> </b>
-	</td>
-	<td>
- <b> </b><b>
-		12560 </b><b> </b>
-	</td>
-	<td>
- <b> </b><b>
-		16497 </b><b> </b>
-	</td>
-	<td>
- <b> </b><b>
-		11</b>
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Башкортостан
-	</td>
-	<td>
-		 187
-	</td>
-	<td>
-		 914
-	</td>
-	<td>
-		 1287
+		 956
 	</td>
 	<td>
 		 1
@@ -1209,16 +1145,50 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 </tr>
 <tr>
 	<td>
+ <b>Приволжский федеральный округ</b>
+	</td>
+	<td>
+ <b>2000</b>
+	</td>
+	<td>
+ <b>13708</b>
+	</td>
+	<td>
+ <b>19321</b>
+	</td>
+	<td>
+ <b>23</b>
+	</td>
+</tr>
+<tr>
+	<td>
+		 Республика Башкортостан
+	</td>
+	<td>
+		 234
+	</td>
+	<td>
+		 581
+	</td>
+	<td>
+		 1521
+	</td>
+	<td>
+		 3
+	</td>
+</tr>
+<tr>
+	<td>
 		 Республика Марий Эл
 	</td>
 	<td>
-		 11
+		 18
 	</td>
 	<td>
-		 490
+		 543
 	</td>
 	<td>
-		 459
+		 512
 	</td>
 	<td>
 		 0
@@ -1229,13 +1199,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Мордовия
 	</td>
 	<td>
-		 48
+		 59
 	</td>
 	<td>
-		 167
+		 164
 	</td>
 	<td>
-		 175
+		 240
 	</td>
 	<td>
 		 0
@@ -1246,13 +1216,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Татарстан
 	</td>
 	<td>
-		 224
+		 267
 	</td>
 	<td>
-		 406
+		 389
 	</td>
 	<td>
-		 645
+		 927
 	</td>
 	<td>
 		 0
@@ -1263,16 +1233,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Удмуртская Республика
 	</td>
 	<td>
-		 138
+		 135
 	</td>
 	<td>
-		 2 271
+		 1 950
 	</td>
 	<td>
-		 2872
+		 2517
 	</td>
 	<td>
-		 1
+		 2
 	</td>
 </tr>
 <tr>
@@ -1280,16 +1250,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Чувашская Республика
 	</td>
 	<td>
-		 52
+		 37
 	</td>
 	<td>
-		 467
+		 522
 	</td>
 	<td>
-		 538
+		 614
 	</td>
 	<td>
-		 1
+		 0
 	</td>
 </tr>
 <tr>
@@ -1297,16 +1267,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Пермский край
 	</td>
 	<td>
-		 257
+		 371
 	</td>
 	<td>
-		 2 947
+		 2 391
 	</td>
 	<td>
-		 3236
+		 2970
 	</td>
 	<td>
-		 4
+		 10
 	</td>
 </tr>
 <tr>
@@ -1314,13 +1284,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Кировская область
 	</td>
 	<td>
-		 192
-	</td>
-	<td>
-		 297
+		 240
 	</td>
 	<td>
 		 568
+	</td>
+	<td>
+		 669
 	</td>
 	<td>
 		 0
@@ -1331,16 +1301,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Нижегородская область
 	</td>
 	<td>
-		 158
+		 171
 	</td>
 	<td>
-		 1 214
+		 2 056
 	</td>
 	<td>
-		 1813
+		 2742
 	</td>
 	<td>
-		 1
+		 0
 	</td>
 </tr>
 <tr>
@@ -1348,13 +1318,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Оренбургская область
 	</td>
 	<td>
-		 40
+		 57
 	</td>
 	<td>
-		 409
+		 369
 	</td>
 	<td>
-		 430
+		 586
 	</td>
 	<td>
 		 0
@@ -1365,16 +1335,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Пензенская область
 	</td>
 	<td>
-		 121
+		 118
 	</td>
 	<td>
-		 113
+		 41
 	</td>
 	<td>
-		 264
+		 330
 	</td>
 	<td>
-		 1
+		 4
 	</td>
 </tr>
 <tr>
@@ -1382,13 +1352,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Самарская область
 	</td>
 	<td>
-		 150
+		 162
 	</td>
 	<td>
-		 2 137
+		 2 879
 	</td>
 	<td>
-		 3098
+		 4243
 	</td>
 	<td>
 		 0
@@ -1399,13 +1369,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Саратовская область
 	</td>
 	<td>
-		 75
+		 85
 	</td>
 	<td>
-		 472
+		 729
 	</td>
 	<td>
-		 674
+		 816
 	</td>
 	<td>
 		 0
@@ -1416,37 +1386,33 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ульяновская область
 	</td>
 	<td>
-		 37
+		 46
 	</td>
 	<td>
-		 256
+		 526
 	</td>
 	<td>
-		 438
+		 634
 	</td>
 	<td>
-		 2
+		 4
 	</td>
 </tr>
 <tr>
 	<td>
- <b>Уральский федеральный округ </b><b> </b>
+ <b>Уральский федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		793 </b><b> </b>
+ <b>769</b>
 	</td>
 	<td>
- <b> </b><b>
-		5881 </b><b> </b>
+ <b>8288</b>
 	</td>
 	<td>
- <b> </b><b>
-		8664 </b><b> </b>
+ <b>10415</b>
 	</td>
 	<td>
- <b> </b><b>
-		10</b>
+ <b>17</b>
 	</td>
 </tr>
 <tr>
@@ -1454,13 +1420,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Курганская область
 	</td>
 	<td>
-		 70
+		 38
 	</td>
 	<td>
-		 376
+		 533
 	</td>
 	<td>
-		 587
+		 752
 	</td>
 	<td>
 		 0
@@ -1471,16 +1437,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Свердловская область
 	</td>
 	<td>
-		 176
+		 169
 	</td>
 	<td>
-		 1 237
+		 1 297
 	</td>
 	<td>
-		 1473
+		 2032
 	</td>
 	<td>
-		 4
+		 7
 	</td>
 </tr>
 <tr>
@@ -1488,16 +1454,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Тюменская область
 	</td>
 	<td>
-		 150
+		 171
 	</td>
 	<td>
-		 1 489
+		 2 157
 	</td>
 	<td>
-		 1960
+		 2365
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -1505,16 +1471,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ханты-Мансийский АО
 	</td>
 	<td>
-		 121
+		 125
 	</td>
 	<td>
-		 1 465
+		 2 125
 	</td>
 	<td>
-		 2348
+		 2302
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -1522,13 +1488,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Ямало-Ненецкий автономный округ
 	</td>
 	<td>
-		 29
+		 40
 	</td>
 	<td>
-		 220
+		 360
 	</td>
 	<td>
-		 462
+		 610
 	</td>
 	<td>
 		 0
@@ -1539,37 +1505,33 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Челябинская область
 	</td>
 	<td>
-		 247
+		 226
 	</td>
 	<td>
-		 1 094
+		 1 816
 	</td>
 	<td>
-		 1834
+		 2354
 	</td>
 	<td>
-		 6
+		 8
 	</td>
 </tr>
 <tr>
 	<td>
- <b>Сибирский федеральный округ </b><b> </b>
+ <b>Сибирский федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		1236 </b><b> </b>
+ <b>1279</b>
 	</td>
 	<td>
- <b> </b><b>
-		4152 </b><b> </b>
+ <b>6642</b>
 	</td>
 	<td>
- <b> </b><b>
-		8338 </b><b> </b>
+ <b>10980</b>
 	</td>
 	<td>
- <b> </b><b>
-		9</b>
+ <b>9</b>
 	</td>
 </tr>
 <tr>
@@ -1577,13 +1539,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Алтай
 	</td>
 	<td>
-		 21
+		 16
 	</td>
 	<td>
-		 13
+		 41
 	</td>
 	<td>
-		 46
+		 74
 	</td>
 	<td>
 		 0
@@ -1594,13 +1556,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Тыва
 	</td>
 	<td>
-		 13
+		 0
 	</td>
 	<td>
-		 20
+		 25
 	</td>
 	<td>
-		 34
+		 70
 	</td>
 	<td>
 		 0
@@ -1611,13 +1573,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Хакасия
 	</td>
 	<td>
-		 60
+		 53
 	</td>
 	<td>
-		 216
+		 270
 	</td>
 	<td>
-		 354
+		 471
 	</td>
 	<td>
 		 0
@@ -1628,13 +1590,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Алтайский край
 	</td>
 	<td>
-		 84
+		 77
 	</td>
 	<td>
-		 444
+		 690
 	</td>
 	<td>
-		 608
+		 916
 	</td>
 	<td>
 		 0
@@ -1645,16 +1607,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Красноярский край
 	</td>
 	<td>
-		 255
+		 323
 	</td>
 	<td>
-		 800
+		 1 490
 	</td>
 	<td>
-		 1293
+		 2077
 	</td>
 	<td>
-		 1
+		 0
 	</td>
 </tr>
 <tr>
@@ -1662,16 +1624,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Иркутская область
 	</td>
 	<td>
-		 263
+		 276
 	</td>
 	<td>
-		 646
+		 1 182
 	</td>
 	<td>
-		 2265
+		 2268
 	</td>
 	<td>
-		 1
+		 0
 	</td>
 </tr>
 <tr>
@@ -1679,16 +1641,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Кемеровская область
 	</td>
 	<td>
-		 180
+		 164
 	</td>
 	<td>
-		 1 066
+		 1 491
 	</td>
 	<td>
-		 1711
+		 2233
 	</td>
 	<td>
-		 6
+		 8
 	</td>
 </tr>
 <tr>
@@ -1696,16 +1658,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Новосибирская область
 	</td>
 	<td>
-		 121
+		 133
 	</td>
 	<td>
-		 10
+		 38
 	</td>
 	<td>
-		 490
+		 936
 	</td>
 	<td>
-		 1
+		 0
 	</td>
 </tr>
 <tr>
@@ -1713,16 +1675,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Омская область
 	</td>
 	<td>
-		 75
+		 77
 	</td>
 	<td>
-		 738
+		 864
 	</td>
 	<td>
-		 1030
+		 1317
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -1730,13 +1692,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Томская область
 	</td>
 	<td>
-		 164
+		 160
 	</td>
 	<td>
-		 199
+		 551
 	</td>
 	<td>
-		 507
+		 618
 	</td>
 	<td>
 		 0
@@ -1744,23 +1706,19 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 </tr>
 <tr>
 	<td>
- <b>Дальневосточный федеральный округ </b><b> </b>
+ <b>Дальневосточный федеральный округ</b>
 	</td>
 	<td>
- <b> </b><b>
-		478 </b><b> </b>
+ <b>581</b>
 	</td>
 	<td>
- <b> </b><b>
-		4045 </b><b> </b>
+ <b>4607</b>
 	</td>
 	<td>
- <b> </b><b>
-		4382 </b><b> </b>
+ <b>4629</b>
 	</td>
 	<td>
- <b> </b><b>
-		0</b>
+ <b>8</b>
 	</td>
 </tr>
 <tr>
@@ -1768,16 +1726,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Бурятия
 	</td>
 	<td>
-		 45
+		 76
 	</td>
 	<td>
-		 137
+		 165
 	</td>
 	<td>
-		 206
+		 247
 	</td>
 	<td>
-		 0
+		 4
 	</td>
 </tr>
 <tr>
@@ -1785,16 +1743,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Республика Саха (Якутия)
 	</td>
 	<td>
-		 134
+		 90
 	</td>
 	<td>
-		 1 840
+		 1 703
 	</td>
 	<td>
-		 1546
+		 1140
 	</td>
 	<td>
-		 0
+		 2
 	</td>
 </tr>
 <tr>
@@ -1802,16 +1760,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Забайкальский край
 	</td>
 	<td>
-		 57
+		 80
 	</td>
 	<td>
-		 1 010
+		 1 560
 	</td>
 	<td>
-		 1234
+		 1579
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -1819,16 +1777,16 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Камчатский край
 	</td>
 	<td>
-		 34
+		 28
 	</td>
 	<td>
-		 85
+		 8
 	</td>
 	<td>
-		 77
+		 80
 	</td>
 	<td>
-		 0
+		 1
 	</td>
 </tr>
 <tr>
@@ -1836,13 +1794,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Приморский край
 	</td>
 	<td>
-		 69
+		 87
 	</td>
 	<td>
-		 270
+		 232
 	</td>
 	<td>
-		 338
+		 287
 	</td>
 	<td>
 		 0
@@ -1853,13 +1811,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Хабаровский край
 	</td>
 	<td>
-		 57
+		 77
 	</td>
 	<td>
-		 389
+		 483
 	</td>
 	<td>
-		 505
+		 657
 	</td>
 	<td>
 		 0
@@ -1870,13 +1828,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Амурская область
 	</td>
 	<td>
-		 29
+		 39
 	</td>
 	<td>
-		 140
+		 235
 	</td>
 	<td>
-		 177
+		 306
 	</td>
 	<td>
 		 0
@@ -1887,13 +1845,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Магаданская область
 	</td>
 	<td>
-		 11
+		 12
 	</td>
 	<td>
-		 44
+		 51
 	</td>
 	<td>
-		 84
+		 96
 	</td>
 	<td>
 		 0
@@ -1904,13 +1862,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Сахалинская область
 	</td>
 	<td>
-		 25
+		 70
 	</td>
 	<td>
-		 78
+		 68
 	</td>
 	<td>
-		 121
+		 86
 	</td>
 	<td>
 		 0
@@ -1921,13 +1879,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Еврейская автономная область
 	</td>
 	<td>
-		 15
+		 22
 	</td>
 	<td>
-		 48
+		 75
 	</td>
 	<td>
-		 66
+		 113
 	</td>
 	<td>
 		 0
@@ -1938,13 +1896,13 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 		 Чукотский автономный округ
 	</td>
 	<td>
-		 2
+		 0
 	</td>
 	<td>
-		 4
+		 27
 	</td>
 	<td>
-		 28
+		 38
 	</td>
 	<td>
 		 0
@@ -1952,25 +1910,26 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 </tr>
 </tbody>
 </table></div></div>
- <br>    </div>
+<p>
+</p>    </div>
                 <meta itemprop="description" content="Ситуация с коронавирусной инфекцией на этот день">
         <div class="article-detail__footer">
-        <div class="article-detail__date">28 ноября 2023</div>
+        <div class="article-detail__date">5 декабря 2023</div>
         <meta itemprop="datePublished" datetime="ГГГГ-ММ-ДД"
-              content="2023-11-28">
+              content="2023-12-05">
         <meta itemprop="dateModified" datetime="ГГГГ-ММ-ДД"
-              content="2023-11-28">
+              content="2023-12-05">
         <div class="article-detail__share">
             <span>Поделиться:</span>
-            <a href="https://vk.com/share.php?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+54+797+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&image=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/58e/1dfxaykriwuqhso8uf0g39og0227epbc/974_549_1/RIA_8419274.HR.jpg&utm_source=share2"
+            <a href="https://vk.com/share.php?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-69-636-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+69+636+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&image=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/690/8yqajxvhwej5b1o45kn2j7wkr7tt5sfr/974_549_1/444.jpg&utm_source=share2"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/vk-blue.svg"/>
             </a>
-            <a href="https://connect.ok.ru/offer?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+54+797+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&imageUrl=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/58e/1dfxaykriwuqhso8uf0g39og0227epbc/974_549_1/RIA_8419274.HR.jpg&utm_source=share"
+            <a href="https://connect.ok.ru/offer?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-69-636-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+69+636+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&imageUrl=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/690/8yqajxvhwej5b1o45kn2j7wkr7tt5sfr/974_549_1/444.jpg&utm_source=share"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/ok-blue.svg"/>
             </a>
-            <a href="https://t.me/share/url?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/&text=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+54+797+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&utm_source=share"
+            <a href="https://t.me/share/url?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-69-636-chelovek/&text=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+69+636+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&utm_source=share"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/tg-blue.svg"/>
             </a>
@@ -1988,6 +1947,29 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
         <h2 class="articles-recommended__title u-block-title">Рекомендуем</h2>
     </template>
     <template #slides>
+                    <swiper-slide>
+                <div class="article-list__item">
+                                            <div class="article-list__item-img">
+                            <a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/">
+                                <picture>
+                                    <source
+                                        type="image/webp"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/22a/57qyf8vpvvxxzfdazb9yrbjlw5rgzaoj/RIA_8419274.HR.webp 1x"
+                                    >
+                                    <img
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/22a/57qyf8vpvvxxzfdazb9yrbjlw5rgzaoj/RIA_8419274.HR.jpg"
+                                        loading="lazy"
+                                        alt="В России за неделю выздоровело 54 797 человек"
+                                    >
+                                </picture>
+                            </a>
+                        </div>
+                                        <div class="article-list__item-text">
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/">В России за неделю выздоровело 54 797 человек</a></h3>
+                        <div class="article-list__item-date">28 ноября</div>
+                    </div>
+                </div>
+            </swiper-slide>
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
@@ -2080,29 +2062,6 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
                     </div>
                 </div>
             </swiper-slide>
-                    <swiper-slide>
-                <div class="article-list__item">
-                                            <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/obnovlennaya-vaktsina-sputnik-layt-effektivna-protiv-aktualnykh-shtammov-kovida-prakticheski-na-100/">
-                                <picture>
-                                    <source
-                                        type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/b2f/ammt3bvbeh4cwqk1u70hhbto9ortu6er/RIA_6749584.HR.webp 1x"
-                                    >
-                                    <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/b2f/ammt3bvbeh4cwqk1u70hhbto9ortu6er/RIA_6749584.HR.jpg"
-                                        loading="lazy"
-                                        alt="Обновленная вакцина «Спутник лайт» эффективна против актуальных штаммов ковида практически на 100%"
-                                    >
-                                </picture>
-                            </a>
-                        </div>
-                                        <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/obnovlennaya-vaktsina-sputnik-layt-effektivna-protiv-aktualnykh-shtammov-kovida-prakticheski-na-100/">Обновленная вакцина «Спутник лайт» эффективна против актуальных штаммов ковида практически на 100%</a></h3>
-                        <div class="article-list__item-date">16 ноября</div>
-                    </div>
-                </div>
-            </swiper-slide>
             </template>
 </articles-recommended>
             </div>
@@ -2113,6 +2072,18 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
                             
 <h3 class="article-aside__title u-block-title-md">Интересное</h3>
 <div class="article-aside__list">
+            <div class="article-aside__item">
+            <div class="article-aside__item-title">
+                <a
+                    href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-54-797-chelovek/"
+                    @click="
+                                                                            vkHandler('view_content');
+                                            "
+                >
+                    В России за неделю выздоровело 54 797 человек                </a>
+            </div>
+            <div class="article-aside__item-date">28 ноября 2023</div>
+        </div>
             <div class="article-aside__item">
             <div class="article-aside__item-title">
                 <a
@@ -2136,42 +2107,6 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
                     Минпросвещения не планирует переводить школы на дистант из-за коронавируса                </a>
             </div>
             <div class="article-aside__item-date">21 ноября 2023</div>
-        </div>
-            <div class="article-aside__item">
-            <div class="article-aside__item-title">
-                <a
-                    href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-39-731-chelovek/"
-                    @click="
-                                                                            vkHandler('view_content');
-                                            "
-                >
-                    В России за неделю выздоровело 39 731 человек                </a>
-            </div>
-            <div class="article-aside__item-date">21 ноября 2023</div>
-        </div>
-            <div class="article-aside__item">
-            <div class="article-aside__item-title">
-                <a
-                    href="/stopkoronavirus/eksperty-predpolagayut-chto-koronavirus-ne-pokidaet-organizm-posle-vyzdorovleniya-i-prodolzhaet-vred/"
-                    @click="
-                                                                            vkHandler('view_content');
-                                            "
-                >
-                    Эксперты предполагают, что коронавирус не покидает организм после выздоровления и продолжает вредить                </a>
-            </div>
-            <div class="article-aside__item-date">18 ноября 2023</div>
-        </div>
-            <div class="article-aside__item">
-            <div class="article-aside__item-title">
-                <a
-                    href="/stopkoronavirus/obnovlennaya-vaktsina-sputnik-layt-effektivna-protiv-aktualnykh-shtammov-kovida-prakticheski-na-100/"
-                    @click="
-                                                                            vkHandler('view_content');
-                                            "
-                >
-                    Обновленная вакцина «Спутник лайт» эффективна против актуальных штаммов ковида практически на 100%                </a>
-            </div>
-            <div class="article-aside__item-date">16 ноября 2023</div>
         </div>
     </div>
 
@@ -2253,10 +2188,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 <script src="https://cdn.obyasnyaem.ru/frontend/build/js/prebid-ads-popunder-ads-banner.62658dc0.js"></script><script src="https://cdn.obyasnyaem.ru/frontend/build/js/critical.b41d4717.js"></script><script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1664392974220555"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1701182145','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'b5b190ff126d71952671e3fde577cd33'});</script><script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16458056617365"></script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1701786191','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'e18d6f57b0e52899f160e713da735611'});</script><script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16458056617365"></script>
 <script type="text/javascript">BX.setJSList(['/local/templates/media_default/assets/js/vendor.min.js','/local/templates/media_default/assets/js/main.js']);</script>
 <script type="text/javascript">BX.setCSSList(['/local/templates/media_default/styles.css','/local/templates/media_default/template_styles.css']);</script>
-<script type="text/javascript"  src="/bitrix/cache/js/s1/media_default/template_d94ed091315a44d596a586f157fbc5e0/template_d94ed091315a44d596a586f157fbc5e0_v1.js?1701179528167824"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/media_default/template_c87a7924741ef48c460fef538f251270/template_c87a7924741ef48c460fef538f251270_v1.js?1701778645167824"></script>
 
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -2307,7 +2242,7 @@ BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/m
 <script src="https://yandex.ru/ads/system/context.js" async></script>
 
 <script type="text/javascript" src="https://ssp.rambler.ru/capirs_async.js" async></script>
-<script src="https://cdn.obyasnyaem.ru/frontend/build/js/chunk-vendors.60e2bb12.js"></script><script src="https://cdn.obyasnyaem.ru/frontend/build/js/main.cb768d25.js"></script><script>
+<script src="https://cdn.obyasnyaem.ru/frontend/build/js/chunk-vendors.60e2bb12.js"></script><script src="https://cdn.obyasnyaem.ru/frontend/build/js/main.547066a6.js"></script><script>
 			 if (window.innerWidth >= 768) {
 				if (window.Adf) {
 					Adf.banner.ssp('BillboardCOM', {

@@ -14,3 +14,5 @@ if(tail(covid.2019.ru.ISOweeks.ls[[1]]$REPORT_TIMESTAMP, 1) != reporting.REPORT_
             source("covid.2019.ru.plots_regional.20230525.r")
 
         } else{print("Fatal error: two last instances of REPORT_TIMESTAMP identical!")}
+
+print(tail(covid.2019.ru.ISOweeks.plotting.df[, 2:6], 16))
