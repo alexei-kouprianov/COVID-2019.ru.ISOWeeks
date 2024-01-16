@@ -2,15 +2,15 @@
 <html xml:lang="ru" lang="ru" itemscope itemtype="http://schema.org/WebSite">
 <head>
     <!-- head_start -->
-    <title>В России за неделю выздоровело 97 345 человек | Объясняем.рф</title>
+    <title>В России за неделю выздоровели 39 743 человека | Объясняем.рф</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/critical.03d2a237.css"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="robots" content="index, follow" />
-<meta name="description" content="В России за неделю выздоровело 97 345 человек | Официальный сайт Объясняем.рф" />
-<link rel="canonical" href="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-97-345-chelovek/" />
+<meta name="description" content="В России за неделю выздоровели 39 743 человека | Официальный сайт Объясняем.рф" />
+<link rel="canonical" href="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-39-743-cheloveka/" />
 <script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
 
 
-<link href="/bitrix/cache/css/s1/media_default/template_7096abc0513f3a19921f18184714ff81/template_7096abc0513f3a19921f18184714ff81_v1.css?17023091323991" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/media_default/template_b91509a7ccd16db0999ce20b6864dfb0/template_b91509a7ccd16db0999ce20b6864dfb0_v1.css?17054047013991" type="text/css"  data-template-style="true" rel="stylesheet" />
 
 
 
@@ -25,9 +25,9 @@
 <meta property="og:type" content="website">
 <meta property="twitter:card" content="summary">
 <meta property="og:site_name" content="Объясняем.рф - официально о том, что происходит">
-<meta property="og:url" content="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-97-345-chelovek/">
-<meta property="og:title" content="В России за неделю выздоровело 97 345 человек | Объясняем.рф">
-<meta property="og:description" content="В России за неделю выздоровело 97 345 человек | Официальный сайт Объясняем.рф">
+<meta property="og:url" content="https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-39-743-cheloveka/">
+<meta property="og:title" content="В России за неделю выздоровели 39 743 человека | Объясняем.рф">
+<meta property="og:description" content="В России за неделю выздоровели 39 743 человека | Официальный сайт Объясняем.рф">
 
 
 
@@ -70,7 +70,7 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 
 <!-- Сберселлер и Adfox adf -->
 <link rel="preload" href="https://ssp.rambler.ru/capirs_async.js" as="script">
-<!-- / Сберселлер и Adfox adf -->    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/chunk-vendors.859f4391.css"><link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/main.c2770f56.css"></head>
+<!-- / Сберселлер и Adfox adf -->    <link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/chunk-vendors.859f4391.css"><link rel="stylesheet" type="text/css" href="https://cdn.obyasnyaem.ru/frontend/build/css/main.5813b46c.css"></head>
 <body>
 <div id="adblock"  class="adfox-top-wrapper adv advertisement advertising">
 	<div id="BillboardCOM">
@@ -250,1689 +250,1230 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
             >
                 <link itemprop="mainEntityOfPage" href="https://xn--90aivcdt6dxbc.xn--p1ai"/>
 <div class="article-detail__intro">
-    <h1 itemprop="headline name" class="article-detail__title-main u-page-title">В России за неделю выздоровело 97 345 человек</h1>
-    <div class="article-detail__intro-date">12 декабря</div>
+    <h1 itemprop="headline name" class="article-detail__title-main u-page-title">В России за неделю выздоровели 39 743 человека</h1>
+    <div class="article-detail__intro-date">16 января</div>
+            <div class="article-detail__intro-banner-wrapper">
             <div class="article-detail__intro-banner">
-            <picture>
-                <source
-                    type="image/webp"
-                    srcset="https://cdn.obyasnyaem.ru/upload/webp/7f5/cer2c2n2v2s8aymzpe19tu3fgs68g5ft/RIA_6101652.HR.webp 1x"
-                >
-                <img
-                    src="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/7f5/cer2c2n2v2s8aymzpe19tu3fgs68g5ft/974_549_1/RIA_6101652.HR.jpg"
-                    loading="lazy"
-                    alt="Врач смотрит историю болезни в больнице"                                    >
-                <link itemprop="image" href="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/7f5/cer2c2n2v2s8aymzpe19tu3fgs68g5ft/974_549_1/RIA_6101652.HR.jpg">
-            </picture>
-            <div
-                class="article-detail__intro-photo-author">Кирилл Брага/РИА Новости</div>
+                <picture>
+                    <source type="image/webp"
+                            srcset="https://cdn.obyasnyaem.ru/upload/webp/4d2/az0xc5p07g38yfntjdo3t4wzb7jf45ur/RIA_6683802.HR.webp 1x"
+                    >
+                    <img src="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/4d2/az0xc5p07g38yfntjdo3t4wzb7jf45ur/974_549_1/RIA_6683802.HR.jpg" loading="lazy"
+                            alt="Девушка во время ПЦР-теста на COVID-19"                                                >
+                    <link itemprop="image" href="https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/4d2/az0xc5p07g38yfntjdo3t4wzb7jf45ur/974_549_1/RIA_6683802.HR.jpg">
+                </picture>
+            </div>
+            <div class="article-detail__intro-photo-author">
+                Алексей Витвицкий/РИА Новости            </div>
         </div>
     </div>
 <div class="article-detail__body">
     <div itemprop="articleBody"
          class="article-detail__content ">
         <p>
-	 За 49-ю неделю 2023 года (с 4 по 10 декабря) в стране госпитализирован 9451 человек, количество госпитализаций увеличилось в сравнении с предшествующей неделей на 5,2%.
+	 За 2-ю неделю 2024 года (с 8 по 14 января) в стране госпитализировано 3 746 человек. Количество госпитализаций увеличилось в сравнении с предшествующей неделей на 21,4%.
 </p>
 <p>
-	 Увеличение числа госпитализаций произошло в 44 субъектах РФ, в том числе в 22 регионах увеличение более чем в среднем по России.
+	 Увеличение числа госпитализаций произошло в 54 субъектах Российской Федерации, в том числе в 25 регионах увеличение более чем в среднем по России.
 </p>
 <p>
-	 Выздоровело 97 345 человек, или на 39,8% больше в сравнении с предыдущей неделей.
+	 Выздоровели 39 743 человека, или на 3% меньше в сравнении с предыдущей неделей.
 </p>
 <p>
-	 Показатель заболеваемости новой коронавирусной инфекцией за прошедшую неделю на 100 тыс. населения составил 73,39 и увеличился в сравнении с предыдущей неделей на 9,7%. Увеличение заболеваемости отмечено в 51 субъекте РФ, в том числе в 26 регионах более, чем в среднем по стране.
+	 Показатель заболеваемости новой коронавирусной инфекцией за прошедшую неделю на 100 тыс. населения составил 18,5 и возрос в сравнении с предыдущей неделей на 12,6%. Увеличение заболеваемости отмечено в 62 субъектах, в том числе в 18 регионах более чем в среднем по стране.
 </p>
 <p>
-	 Умерло за неделю 148 человек.
-</p>
-<p>
-</p>
-<h3>
-<p>
- <b>По состоянию за 49 нед. 2023 г. (04.12.2023–10.12.2023) </b>
-</p>
- <b> </b></h3>
-<div class="u-table-cv"><div class="u-table-cv__wrapper"><table cellpadding="0" cellspacing="0">
- <colgroup><col> <col> <col> <col> <col> </colgroup>
-<tbody>
-<tr>
-	<td>
-		 Наименование субъекта
-	</td>
-	<td>
-		 Госпитализировано
-	</td>
-	<td>
-		 Выздоровело
-	</td>
-	<td>
-		 Выявлено
-	</td>
-	<td>
-		 Умерло&nbsp;
-	</td>
-</tr>
-<tr>
-	<td>
-		 Российская Федерация
-	</td>
-	<td>
-		 9 451
-	</td>
-	<td>
-		 97 345
-	</td>
-	<td>
-		 107 174
-	</td>
-	<td>
-		 148
-	</td>
-</tr>
-<tr>
-	<td>
-		 Центральный федеральный округ
-	</td>
-	<td>
-		 2 603
-	</td>
-	<td>
-		 27529
-	</td>
-	<td>
-		 30570
-	</td>
-	<td>
-		 44
-	</td>
-</tr>
-<tr>
-	<td>
-		 Белгородская область
-	</td>
-	<td>
-		 144
-	</td>
-	<td>
-		 344
-	</td>
-	<td>
-		 784
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Брянская область
-	</td>
-	<td>
-		 46
-	</td>
-	<td>
-		 786
-	</td>
-	<td>
-		 1001
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Владимирская область
-	</td>
-	<td>
-		 86
-	</td>
-	<td>
-		 829
-	</td>
-	<td>
-		 1134
-	</td>
-	<td>
-		 5
-	</td>
-</tr>
-<tr>
-	<td>
-		 Воронежская область
-	</td>
-	<td>
-		 146
-	</td>
-	<td>
-		 2 161
-	</td>
-	<td>
-		 2773
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ивановская область
-	</td>
-	<td>
-		 116
-	</td>
-	<td>
-		 312
-	</td>
-	<td>
-		 690
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Калужская область
-	</td>
-	<td>
-		 73
-	</td>
-	<td>
-		 557
-	</td>
-	<td>
-		 574
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Костромская область
-	</td>
-	<td>
-		 30
-	</td>
-	<td>
-		 127
-	</td>
-	<td>
-		 300
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Курская область
-	</td>
-	<td>
-		 54
-	</td>
-	<td>
-		 231
-	</td>
-	<td>
-		 357
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Липецкая область
-	</td>
-	<td>
-		 66
-	</td>
-	<td>
-		 294
-	</td>
-	<td>
-		 590
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Московская область
-	</td>
-	<td>
-		 10
-	</td>
-	<td>
-		 1 501
-	</td>
-	<td>
-		 1556
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Орловская область
-	</td>
-	<td>
-		 80
-	</td>
-	<td>
-		 487
-	</td>
-	<td>
-		 704
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Рязанская область
-	</td>
-	<td>
-		 46
-	</td>
-	<td>
-		 740
-	</td>
-	<td>
-		 1080
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Смоленская область
-	</td>
-	<td>
-		 85
-	</td>
-	<td>
-		 205
-	</td>
-	<td>
-		 316
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Тамбовская область
-	</td>
-	<td>
-		 31
-	</td>
-	<td>
-		 214
-	</td>
-	<td>
-		 334
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Тверская область
-	</td>
-	<td>
-		 41
-	</td>
-	<td>
-		 1 402
-	</td>
-	<td>
-		 1488
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Тульская область
-	</td>
-	<td>
-		 16
-	</td>
-	<td>
-		 164
-	</td>
-	<td>
-		 323
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ярославская область
-	</td>
-	<td>
-		 100
-	</td>
-	<td>
-		 235
-	</td>
-	<td>
-		 711
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Москва
-	</td>
-	<td>
-		 1 433
-	</td>
-	<td>
-		 16 940
-	</td>
-	<td>
-		 15855
-	</td>
-	<td>
-		 30
-	</td>
-</tr>
-<tr>
-	<td>
-		 Северо-Западный федеральный округ
-	</td>
-	<td>
-		 1603
-	</td>
-	<td>
-		 18889
-	</td>
-	<td>
-		 22325
-	</td>
-	<td>
-		 37
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Карелия
-	</td>
-	<td>
-		 40
-	</td>
-	<td>
-		 382
-	</td>
-	<td>
-		 445
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Коми
-	</td>
-	<td>
-		 118
-	</td>
-	<td>
-		 347
-	</td>
-	<td>
-		 416
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Архангельская область
-	</td>
-	<td>
-		 211
-	</td>
-	<td>
-		 1 042
-	</td>
-	<td>
-		 1429
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ненецкий автономный округ
-	</td>
-	<td>
-		 6
-	</td>
-	<td>
-		 60
-	</td>
-	<td>
-		 57
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Вологодская область
-	</td>
-	<td>
-		 109
-	</td>
-	<td>
-		 545
-	</td>
-	<td>
-		 730
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Калининградская область
-	</td>
-	<td>
-		 107
-	</td>
-	<td>
-		 704
-	</td>
-	<td>
-		 841
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ленинградская область
-	</td>
-	<td>
-		 55
-	</td>
-	<td>
-		 1 830
-	</td>
-	<td>
-		 2141
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Мурманская область
-	</td>
-	<td>
-		 37
-	</td>
-	<td>
-		 722
-	</td>
-	<td>
-		 621
-	</td>
-	<td>
-		 6
-	</td>
-</tr>
-<tr>
-	<td>
-		 Новгородская область
-	</td>
-	<td>
-		 47
-	</td>
-	<td>
-		 337
-	</td>
-	<td>
-		 297
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Псковская область
-	</td>
-	<td>
-		 68
-	</td>
-	<td>
-		 480
-	</td>
-	<td>
-		 620
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Санкт-Петербург
-	</td>
-	<td>
-		 805
-	</td>
-	<td>
-		 12 440
-	</td>
-	<td>
-		 14728
-	</td>
-	<td>
-		 26
-	</td>
-</tr>
-<tr>
-	<td>
-		 Южный федеральный округ
-	</td>
-	<td>
-		 485
-	</td>
-	<td>
-		 2755
-	</td>
-	<td>
-		 3520
-	</td>
-	<td>
-		 7
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Адыгея
-	</td>
-	<td>
-		 0
-	</td>
-	<td>
-		 27
-	</td>
-	<td>
-		 57
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Калмыкия
-	</td>
-	<td>
-		 2
-	</td>
-	<td>
-		 58
-	</td>
-	<td>
-		 93
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Крым
-	</td>
-	<td>
-		 64
-	</td>
-	<td>
-		 140
-	</td>
-	<td>
-		 295
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Краснодарский край
-	</td>
-	<td>
-		 223
-	</td>
-	<td>
-		 876
-	</td>
-	<td>
-		 1020
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Астраханская область
-	</td>
-	<td>
-		 83
-	</td>
-	<td>
-		 329
-	</td>
-	<td>
-		 310
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Волгоградская область
-	</td>
-	<td>
-		 43
-	</td>
-	<td>
-		 347
-	</td>
-	<td>
-		 578
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ростовская область
-	</td>
-	<td>
-		 43
-	</td>
-	<td>
-		 639
-	</td>
-	<td>
-		 869
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Севастополь
-	</td>
-	<td>
-		 27
-	</td>
-	<td>
-		 339
-	</td>
-	<td>
-		 298
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Северо-Кавказский федеральный округ
-	</td>
-	<td>
-		 190
-	</td>
-	<td>
-		 1402
-	</td>
-	<td>
-		 1514
-	</td>
-	<td>
-		 4
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Дагестан
-	</td>
-	<td>
-		 24
-	</td>
-	<td>
-		 89
-	</td>
-	<td>
-		 54
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Ингушетия
-	</td>
-	<td>
-		 0
-	</td>
-	<td>
-		 5
-	</td>
-	<td>
-		 21
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Кабардино-Балкарская Республика
-	</td>
-	<td>
-		 28
-	</td>
-	<td>
-		 150
-	</td>
-	<td>
-		 169
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Карачаево-Черкесская Республика
-	</td>
-	<td>
-		 5
-	</td>
-	<td>
-		 102
-	</td>
-	<td>
-		 87
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Северная Осетия — Алания
-	</td>
-	<td>
-		 12
-	</td>
-	<td>
-		 68
-	</td>
-	<td>
-		 61
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Чеченская Республика
-	</td>
-	<td>
-		 0
-	</td>
-	<td>
-		 3
-	</td>
-	<td>
-		 10
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ставропольский край
-	</td>
-	<td>
-		 121
-	</td>
-	<td>
-		 985
-	</td>
-	<td>
-		 1112
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Приволжский федеральный округ
-	</td>
-	<td>
-		 1847
-	</td>
-	<td>
-		 19677
-	</td>
-	<td>
-		 21546
-	</td>
-	<td>
-		 20
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Башкортостан
-	</td>
-	<td>
-		 270
-	</td>
-	<td>
-		 921
-	</td>
-	<td>
-		 2070
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Марий Эл
-	</td>
-	<td>
-		 8
-	</td>
-	<td>
-		 463
-	</td>
-	<td>
-		 429
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Мордовия
-	</td>
-	<td>
-		 56
-	</td>
-	<td>
-		 215
-	</td>
-	<td>
-		 273
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Татарстан
-	</td>
-	<td>
-		 238
-	</td>
-	<td>
-		 1 070
-	</td>
-	<td>
-		 1371
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Удмуртская Республика
-	</td>
-	<td>
-		 130
-	</td>
-	<td>
-		 2 627
-	</td>
-	<td>
-		 2436
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Чувашская Республика
-	</td>
-	<td>
-		 63
-	</td>
-	<td>
-		 482
-	</td>
-	<td>
-		 608
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Пермский край
-	</td>
-	<td>
-		 201
-	</td>
-	<td>
-		 3 489
-	</td>
-	<td>
-		 3378
-	</td>
-	<td>
-		 9
-	</td>
-</tr>
-<tr>
-	<td>
-		 Кировская область
-	</td>
-	<td>
-		 233
-	</td>
-	<td>
-		 605
-	</td>
-	<td>
-		 683
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Нижегородская область
-	</td>
-	<td>
-		 192
-	</td>
-	<td>
-		 2 880
-	</td>
-	<td>
-		 2995
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Оренбургская область
-	</td>
-	<td>
-		 61
-	</td>
-	<td>
-		 547
-	</td>
-	<td>
-		 634
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Пензенская область
-	</td>
-	<td>
-		 115
-	</td>
-	<td>
-		 40
-	</td>
-	<td>
-		 425
-	</td>
-	<td>
-		 4
-	</td>
-</tr>
-<tr>
-	<td>
-		 Самарская область
-	</td>
-	<td>
-		 165
-	</td>
-	<td>
-		 4 964
-	</td>
-	<td>
-		 4748
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Саратовская область
-	</td>
-	<td>
-		 67
-	</td>
-	<td>
-		 759
-	</td>
-	<td>
-		 962
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ульяновская область
-	</td>
-	<td>
-		 48
-	</td>
-	<td>
-		 615
-	</td>
-	<td>
-		 534
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Уральский федеральный округ
-	</td>
-	<td>
-		 934
-	</td>
-	<td>
-		 10695
-	</td>
-	<td>
-		 9896
-	</td>
-	<td>
-		 17
-	</td>
-</tr>
-<tr>
-	<td>
-		 Курганская область
-	</td>
-	<td>
-		 39
-	</td>
-	<td>
-		 902
-	</td>
-	<td>
-		 772
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Свердловская область
-	</td>
-	<td>
-		 295
-	</td>
-	<td>
-		 2 017
-	</td>
-	<td>
-		 2329
-	</td>
-	<td>
-		 6
-	</td>
-</tr>
-<tr>
-	<td>
-		 Тюменская область
-	</td>
-	<td>
-		 149
-	</td>
-	<td>
-		 2 521
-	</td>
-	<td>
-		 1945
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ханты-Мансийский автономный округ
-	</td>
-	<td>
-		 111
-	</td>
-	<td>
-		 2 546
-	</td>
-	<td>
-		 2072
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Ямало-Ненецкий автономный округ
-	</td>
-	<td>
-		 56
-	</td>
-	<td>
-		 808
-	</td>
-	<td>
-		 579
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Челябинская область
-	</td>
-	<td>
-		 284
-	</td>
-	<td>
-		 1 901
-	</td>
-	<td>
-		 2199
-	</td>
-	<td>
-		 9
-	</td>
-</tr>
-<tr>
-	<td>
-		 Сибирский федеральный округ
-	</td>
-	<td>
-		 1373
-	</td>
-	<td>
-		 11660
-	</td>
-	<td>
-		 13340
-	</td>
-	<td>
-		 16
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Алтай
-	</td>
-	<td>
-		 18
-	</td>
-	<td>
-		 41
-	</td>
-	<td>
-		 69
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Тыва
-	</td>
-	<td>
-		 0
-	</td>
-	<td>
-		 134
-	</td>
-	<td>
-		 114
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Хакасия
-	</td>
-	<td>
-		 51
-	</td>
-	<td>
-		 467
-	</td>
-	<td>
-		 581
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Алтайский край
-	</td>
-	<td>
-		 107
-	</td>
-	<td>
-		 928
-	</td>
-	<td>
-		 938
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Красноярский край
-	</td>
-	<td>
-		 296
-	</td>
-	<td>
-		 1 900
-	</td>
-	<td>
-		 2574
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Иркутская область
-	</td>
-	<td>
-		 280
-	</td>
-	<td>
-		 2 981
-	</td>
-	<td>
-		 2911
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Кемеровская область
-	</td>
-	<td>
-		 240
-	</td>
-	<td>
-		 2 207
-	</td>
-	<td>
-		 2644
-	</td>
-	<td>
-		 9
-	</td>
-</tr>
-<tr>
-	<td>
-		 Новосибирская область
-	</td>
-	<td>
-		 159
-	</td>
-	<td>
-		 1 218
-	</td>
-	<td>
-		 1347
-	</td>
-	<td>
-		 2
-	</td>
-</tr>
-<tr>
-	<td>
-		 Омская область
-	</td>
-	<td>
-		 75
-	</td>
-	<td>
-		 1 238
-	</td>
-	<td>
-		 1436
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Томская область
-	</td>
-	<td>
-		 147
-	</td>
-	<td>
-		 546
-	</td>
-	<td>
-		 726
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Дальневосточный федеральный округ
-	</td>
-	<td>
-		 416
-	</td>
-	<td>
-		 4738
-	</td>
-	<td>
-		 4463
-	</td>
-	<td>
-		 3
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Бурятия
-	</td>
-	<td>
-		 50
-	</td>
-	<td>
-		 286
-	</td>
-	<td>
-		 243
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Республика Саха (Якутия)
-	</td>
-	<td>
-		 71
-	</td>
-	<td>
-		 860
-	</td>
-	<td>
-		 617
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Забайкальский край
-	</td>
-	<td>
-		 56
-	</td>
-	<td>
-		 1 635
-	</td>
-	<td>
-		 1553
-	</td>
-	<td>
-		 1
-	</td>
-</tr>
-<tr>
-	<td>
-		 Камчатский край
-	</td>
-	<td>
-		 18
-	</td>
-	<td>
-		 49
-	</td>
-	<td>
-		 83
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Приморский край
-	</td>
-	<td>
-		 58
-	</td>
-	<td>
-		 298
-	</td>
-	<td>
-		 388
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Хабаровский край
-	</td>
-	<td>
-		 60
-	</td>
-	<td>
-		 731
-	</td>
-	<td>
-		 792
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Амурская область
-	</td>
-	<td>
-		 32
-	</td>
-	<td>
-		 397
-	</td>
-	<td>
-		 374
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Магаданская область
-	</td>
-	<td>
-		 8
-	</td>
-	<td>
-		 134
-	</td>
-	<td>
-		 109
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Сахалинская область
-	</td>
-	<td>
-		 48
-	</td>
-	<td>
-		 165
-	</td>
-	<td>
-		 132
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Еврейская автономная область
-	</td>
-	<td>
-		 15
-	</td>
-	<td>
-		 142
-	</td>
-	<td>
-		 146
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-<tr>
-	<td>
-		 Чукотский автономный округ
-	</td>
-	<td>
-		 0
-	</td>
-	<td>
-		 41
-	</td>
-	<td>
-		 26
-	</td>
-	<td>
-		 0
-	</td>
-</tr>
-</tbody>
-</table></div></div>
-<p>
+	 Умерло за неделю 150 человек.
 </p>    </div>
-                <meta itemprop="description" content="Ситуация с коронавирусной инфекцией на этот день">
+            <div class="article-detail__cv-body">
+                            <h3 class="article-detail__cv-table-title title-h2 title-h2--md-mob">
+                    По состоянию за 2 нед. 2024 г. (08.01.2024 - 14.01.2024)                </h3>
+                        <div class="article-detail__u-table-cv u-table-cv">
+                <div class="u-table-cv__wrapper">
+                    <table cellpadding="0" cellspacing="0">
+                        <colgroup><col><col><col><col><col></colgroup>
+                        <tbody>
+                        <tr>
+                            <td>
+                                Наименование субъекта
+                            </td>
+                            <td>
+                                Госпитализировано
+                            </td>
+                            <td>
+                                Выздоровело
+                            </td>
+                            <td>
+                                Выявлено
+                            </td>
+                            <td>
+                                Умерло
+                            </td>
+                        </tr>
+                                                    <tr>
+                                <td>
+                                    Российская Федерация                                </td>
+                                <td>
+                                    3 746                                </td>
+                                <td>
+                                    39 743                                </td>
+                                <td>
+                                    26 993                                </td>
+                                <td>
+                                    150                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Центральный федеральный округ                                </td>
+                                <td>
+                                    1057                                </td>
+                                <td>
+                                    11497                                </td>
+                                <td>
+                                    8645                                </td>
+                                <td>
+                                    37                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Белгородская область                                </td>
+                                <td>
+                                    51                                </td>
+                                <td>
+                                    396                                </td>
+                                <td>
+                                    278                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Брянская область                                </td>
+                                <td>
+                                    18                                </td>
+                                <td>
+                                    177                                </td>
+                                <td>
+                                    80                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Владимирская область                                </td>
+                                <td>
+                                    15                                </td>
+                                <td>
+                                    1102                                </td>
+                                <td>
+                                    603                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Воронежская область                                </td>
+                                <td>
+                                    90                                </td>
+                                <td>
+                                    1747                                </td>
+                                <td>
+                                    710                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ивановская область                                </td>
+                                <td>
+                                    40                                </td>
+                                <td>
+                                    918                                </td>
+                                <td>
+                                    700                                </td>
+                                <td>
+                                    2                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Калужская область                                </td>
+                                <td>
+                                    23                                </td>
+                                <td>
+                                    180                                </td>
+                                <td>
+                                    105                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Костромская область                                </td>
+                                <td>
+                                    13                                </td>
+                                <td>
+                                    108                                </td>
+                                <td>
+                                    53                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Курская область                                </td>
+                                <td>
+                                    11                                </td>
+                                <td>
+                                    170                                </td>
+                                <td>
+                                    83                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Липецкая область                                </td>
+                                <td>
+                                    21                                </td>
+                                <td>
+                                    300                                </td>
+                                <td>
+                                    174                                </td>
+                                <td>
+                                    4                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Московская область                                </td>
+                                <td>
+                                    26                                </td>
+                                <td>
+                                    402                                </td>
+                                <td>
+                                    348                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Орловская область                                </td>
+                                <td>
+                                    73                                </td>
+                                <td>
+                                    315                                </td>
+                                <td>
+                                    195                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Рязанская область                                </td>
+                                <td>
+                                    19                                </td>
+                                <td>
+                                    450                                </td>
+                                <td>
+                                    217                                </td>
+                                <td>
+                                    4                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Смоленская область                                </td>
+                                <td>
+                                    24                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    46                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Тамбовская область                                </td>
+                                <td>
+                                    11                                </td>
+                                <td>
+                                    257                                </td>
+                                <td>
+                                    135                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Тверская область                                </td>
+                                <td>
+                                    17                                </td>
+                                <td>
+                                    407                                </td>
+                                <td>
+                                    228                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Тульская область                                </td>
+                                <td>
+                                    9                                </td>
+                                <td>
+                                    219                                </td>
+                                <td>
+                                    35                                </td>
+                                <td>
+                                    2                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ярославская область                                </td>
+                                <td>
+                                    48                                </td>
+                                <td>
+                                    773                                </td>
+                                <td>
+                                    383                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Москва                                </td>
+                                <td>
+                                    548                                </td>
+                                <td>
+                                    3 554                                </td>
+                                <td>
+                                    4272                                </td>
+                                <td>
+                                    22                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Северо-Западный федеральный округ                                </td>
+                                <td>
+                                    530                                </td>
+                                <td>
+                                    6741                                </td>
+                                <td>
+                                    3299                                </td>
+                                <td>
+                                    33                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Карелия                                </td>
+                                <td>
+                                    18                                </td>
+                                <td>
+                                    230                                </td>
+                                <td>
+                                    185                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Коми                                </td>
+                                <td>
+                                    24                                </td>
+                                <td>
+                                    415                                </td>
+                                <td>
+                                    124                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Архангельская область                                </td>
+                                <td>
+                                    51                                </td>
+                                <td>
+                                    684                                </td>
+                                <td>
+                                    319                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ненецкий автономный округ                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    65                                </td>
+                                <td>
+                                    7                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Вологодская область                                </td>
+                                <td>
+                                    29                                </td>
+                                <td>
+                                    436                                </td>
+                                <td>
+                                    278                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Калининградская область                                </td>
+                                <td>
+                                    42                                </td>
+                                <td>
+                                    299                                </td>
+                                <td>
+                                    212                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ленинградская область                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    531                                </td>
+                                <td>
+                                    213                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Мурманская область                                </td>
+                                <td>
+                                    9                                </td>
+                                <td>
+                                    100                                </td>
+                                <td>
+                                    104                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Новгородская область                                </td>
+                                <td>
+                                    14                                </td>
+                                <td>
+                                    262                                </td>
+                                <td>
+                                    156                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Псковская область                                </td>
+                                <td>
+                                    26                                </td>
+                                <td>
+                                    244                                </td>
+                                <td>
+                                    98                                </td>
+                                <td>
+                                    4                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Санкт-Петербург                                </td>
+                                <td>
+                                    295                                </td>
+                                <td>
+                                    3 475                                </td>
+                                <td>
+                                    1603                                </td>
+                                <td>
+                                    28                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Южный федеральный округ                                </td>
+                                <td>
+                                    375                                </td>
+                                <td>
+                                    2474                                </td>
+                                <td>
+                                    1920                                </td>
+                                <td>
+                                    11                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Адыгея                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    2                                </td>
+                                <td>
+                                    9                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Калмыкия                                </td>
+                                <td>
+                                    4                                </td>
+                                <td>
+                                    35                                </td>
+                                <td>
+                                    18                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Крым                                </td>
+                                <td>
+                                    50                                </td>
+                                <td>
+                                    255                                </td>
+                                <td>
+                                    234                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Краснодарский край                                </td>
+                                <td>
+                                    168                                </td>
+                                <td>
+                                    916                                </td>
+                                <td>
+                                    756                                </td>
+                                <td>
+                                    5                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Астраханская область                                </td>
+                                <td>
+                                    57                                </td>
+                                <td>
+                                    144                                </td>
+                                <td>
+                                    92                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Волгоградская область                                </td>
+                                <td>
+                                    49                                </td>
+                                <td>
+                                    422                                </td>
+                                <td>
+                                    320                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ростовская область                                </td>
+                                <td>
+                                    30                                </td>
+                                <td>
+                                    564                                </td>
+                                <td>
+                                    322                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Севастополь                                </td>
+                                <td>
+                                    17                                </td>
+                                <td>
+                                    136                                </td>
+                                <td>
+                                    169                                </td>
+                                <td>
+                                    4                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Северо-Кавказский федеральный округ                                </td>
+                                <td>
+                                    88                                </td>
+                                <td>
+                                    752                                </td>
+                                <td>
+                                    511                                </td>
+                                <td>
+                                    2                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Дагестан                                </td>
+                                <td>
+                                    11                                </td>
+                                <td>
+                                    25                                </td>
+                                <td>
+                                    23                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Ингушетия                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    3                                </td>
+                                <td>
+                                    4                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Кабардино-Балкарская Республика                                </td>
+                                <td>
+                                    5                                </td>
+                                <td>
+                                    57                                </td>
+                                <td>
+                                    43                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Карачаево-Черкесская Республика                                </td>
+                                <td>
+                                    8                                </td>
+                                <td>
+                                    60                                </td>
+                                <td>
+                                    14                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Северная Осетия — Алания                                </td>
+                                <td>
+                                    13                                </td>
+                                <td>
+                                    29                                </td>
+                                <td>
+                                    25                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Чеченская Республика                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    4                                </td>
+                                <td>
+                                    5                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ставропольский край                                </td>
+                                <td>
+                                    51                                </td>
+                                <td>
+                                    574                                </td>
+                                <td>
+                                    397                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Приволжский федеральный округ                                </td>
+                                <td>
+                                    800                                </td>
+                                <td>
+                                    10622                                </td>
+                                <td>
+                                    7934                                </td>
+                                <td>
+                                    32                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Башкортостан                                </td>
+                                <td>
+                                    167                                </td>
+                                <td>
+                                    3824                                </td>
+                                <td>
+                                    3267                                </td>
+                                <td>
+                                    6                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Марий Эл                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    88                                </td>
+                                <td>
+                                    49                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Мордовия                                </td>
+                                <td>
+                                    30                                </td>
+                                <td>
+                                    39                                </td>
+                                <td>
+                                    41                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Татарстан                                </td>
+                                <td>
+                                    111                                </td>
+                                <td>
+                                    1125                                </td>
+                                <td>
+                                    961                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Удмуртская Республика                                </td>
+                                <td>
+                                    43                                </td>
+                                <td>
+                                    641                                </td>
+                                <td>
+                                    360                                </td>
+                                <td>
+                                    6                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Чувашская Республика                                </td>
+                                <td>
+                                    28                                </td>
+                                <td>
+                                    240                                </td>
+                                <td>
+                                    165                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Пермский край                                </td>
+                                <td>
+                                    50                                </td>
+                                <td>
+                                    735                                </td>
+                                <td>
+                                    546                                </td>
+                                <td>
+                                    6                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Кировская область                                </td>
+                                <td>
+                                    90                                </td>
+                                <td>
+                                    295                                </td>
+                                <td>
+                                    179                                </td>
+                                <td>
+                                    2                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Нижегородская область                                </td>
+                                <td>
+                                    47                                </td>
+                                <td>
+                                    667                                </td>
+                                <td>
+                                    411                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Оренбургская область                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    317                                </td>
+                                <td>
+                                    162                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Пензенская область                                </td>
+                                <td>
+                                    43                                </td>
+                                <td>
+                                    547                                </td>
+                                <td>
+                                    314                                </td>
+                                <td>
+                                    5                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Самарская область                                </td>
+                                <td>
+                                    81                                </td>
+                                <td>
+                                    1330                                </td>
+                                <td>
+                                    842                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Саратовская область                                </td>
+                                <td>
+                                    64                                </td>
+                                <td>
+                                    587                                </td>
+                                <td>
+                                    502                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ульяновская область                                </td>
+                                <td>
+                                    24                                </td>
+                                <td>
+                                    187                                </td>
+                                <td>
+                                    135                                </td>
+                                <td>
+                                    6                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Уральский федеральный округ                                </td>
+                                <td>
+                                    341                                </td>
+                                <td>
+                                    2560                                </td>
+                                <td>
+                                    1630                                </td>
+                                <td>
+                                    17                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Курганская область                                </td>
+                                <td>
+                                    26                                </td>
+                                <td>
+                                    204                                </td>
+                                <td>
+                                    145                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Свердловская область                                </td>
+                                <td>
+                                    145                                </td>
+                                <td>
+                                    625                                </td>
+                                <td>
+                                    576                                </td>
+                                <td>
+                                    8                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Тюменская область                                </td>
+                                <td>
+                                    31                                </td>
+                                <td>
+                                    288                                </td>
+                                <td>
+                                    295                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ханты-Мансийский АО                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    422                                </td>
+                                <td>
+                                    151                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Ямало-Ненецкий автономный округ                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    114                                </td>
+                                <td>
+                                    106                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Челябинская область                                </td>
+                                <td>
+                                    95                                </td>
+                                <td>
+                                    907                                </td>
+                                <td>
+                                    357                                </td>
+                                <td>
+                                    9                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Сибирский федеральный округ                                </td>
+                                <td>
+                                    372                                </td>
+                                <td>
+                                    4119                                </td>
+                                <td>
+                                    2339                                </td>
+                                <td>
+                                    18                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Алтай                                </td>
+                                <td>
+                                    1                                </td>
+                                <td>
+                                    15                                </td>
+                                <td>
+                                    15                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Тыва                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    21                                </td>
+                                <td>
+                                    22                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Хакасия                                </td>
+                                <td>
+                                    26                                </td>
+                                <td>
+                                    37                                </td>
+                                <td>
+                                    98                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Алтайский край                                </td>
+                                <td>
+                                    29                                </td>
+                                <td>
+                                    187                                </td>
+                                <td>
+                                    231                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Красноярский край                                </td>
+                                <td>
+                                    77                                </td>
+                                <td>
+                                    620                                </td>
+                                <td>
+                                    227                                </td>
+                                <td>
+                                    1                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Иркутская область                                </td>
+                                <td>
+                                    46                                </td>
+                                <td>
+                                    482                                </td>
+                                <td>
+                                    223                                </td>
+                                <td>
+                                    4                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Кемеровская область                                </td>
+                                <td>
+                                    83                                </td>
+                                <td>
+                                    915                                </td>
+                                <td>
+                                    492                                </td>
+                                <td>
+                                    12                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Новосибирская область                                </td>
+                                <td>
+                                    48                                </td>
+                                <td>
+                                    848                                </td>
+                                <td>
+                                    595                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Омская область                                </td>
+                                <td>
+                                    43                                </td>
+                                <td>
+                                    647                                </td>
+                                <td>
+                                    266                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Томская область                                </td>
+                                <td>
+                                    19                                </td>
+                                <td>
+                                    347                                </td>
+                                <td>
+                                    170                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Дальневосточный федеральный округ                                </td>
+                                <td>
+                                    183                                </td>
+                                <td>
+                                    978                                </td>
+                                <td>
+                                    715                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Бурятия                                </td>
+                                <td>
+                                    11                                </td>
+                                <td>
+                                    46                                </td>
+                                <td>
+                                    34                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Республика Саха (Якутия)                                </td>
+                                <td>
+                                    17                                </td>
+                                <td>
+                                    108                                </td>
+                                <td>
+                                    82                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Забайкальский край                                </td>
+                                <td>
+                                    17                                </td>
+                                <td>
+                                    156                                </td>
+                                <td>
+                                    158                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Камчатский край                                </td>
+                                <td>
+                                    2                                </td>
+                                <td>
+                                    42                                </td>
+                                <td>
+                                    35                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Приморский край                                </td>
+                                <td>
+                                    43                                </td>
+                                <td>
+                                    308                                </td>
+                                <td>
+                                    189                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Хабаровский край                                </td>
+                                <td>
+                                    23                                </td>
+                                <td>
+                                    179                                </td>
+                                <td>
+                                    119                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Амурская область                                </td>
+                                <td>
+                                    17                                </td>
+                                <td>
+                                    47                                </td>
+                                <td>
+                                    24                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Магаданская область                                </td>
+                                <td>
+                                    4                                </td>
+                                <td>
+                                    3                                </td>
+                                <td>
+                                    11                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Сахалинская область                                </td>
+                                <td>
+                                    42                                </td>
+                                <td>
+                                    63                                </td>
+                                <td>
+                                    38                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Еврейская автономная область                                </td>
+                                <td>
+                                    7                                </td>
+                                <td>
+                                    24                                </td>
+                                <td>
+                                    20                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                    Чукотский автономный округ                                </td>
+                                <td>
+                                    0                                </td>
+                                <td>
+                                    2                                </td>
+                                <td>
+                                    5                                </td>
+                                <td>
+                                    0                                </td>
+                            </tr>
+                                                    <tr>
+                                <td>
+                                                                    </td>
+                                <td>
+                                                                    </td>
+                                <td>
+                                                                    </td>
+                                <td>
+                                                                    </td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+                    <meta itemprop="description" content="Ситуация с коронавирусной инфекцией на этот день">
         <div class="article-detail__footer">
-        <div class="article-detail__date">12 декабря 2023</div>
+        <div class="article-detail__date">16 января 2024</div>
         <meta itemprop="datePublished" datetime="ГГГГ-ММ-ДД"
-              content="2023-12-12">
+              content="2024-01-16">
         <meta itemprop="dateModified" datetime="ГГГГ-ММ-ДД"
-              content="2023-12-12">
+              content="2024-01-16">
         <div class="article-detail__share">
             <span>Поделиться:</span>
-            <a href="https://vk.com/share.php?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-97-345-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+97+345+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&image=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/7f5/cer2c2n2v2s8aymzpe19tu3fgs68g5ft/974_549_1/RIA_6101652.HR.jpg&utm_source=share2"
+            <a href="https://vk.com/share.php?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-39-743-cheloveka/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8+39+743+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&image=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/4d2/az0xc5p07g38yfntjdo3t4wzb7jf45ur/974_549_1/RIA_6683802.HR.jpg&utm_source=share2"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/vk-blue.svg"/>
             </a>
-            <a href="https://connect.ok.ru/offer?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-97-345-chelovek/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+97+345+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&imageUrl=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/7f5/cer2c2n2v2s8aymzpe19tu3fgs68g5ft/974_549_1/RIA_6101652.HR.jpg&utm_source=share"
+            <a href="https://connect.ok.ru/offer?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-39-743-cheloveka/&title=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8+39+743+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&imageUrl=https://cdn.obyasnyaem.ru/upload/resize_cache/iblock/4d2/az0xc5p07g38yfntjdo3t4wzb7jf45ur/974_549_1/RIA_6683802.HR.jpg&utm_source=share"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/ok-blue.svg"/>
             </a>
-            <a href="https://t.me/share/url?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdorovelo-97-345-chelovek/&text=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE+97+345+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&utm_source=share"
+            <a href="https://t.me/share/url?url=https://xn--90aivcdt6dxbc.xn--p1ai/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-39-743-cheloveka/&text=%D0%92+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B7%D0%B0+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E+%D0%B2%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8+39+743+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&utm_source=share"
                class="article-detail__share-item">
                 <svg-inline src="/frontend/assets/icons/socails/tg-blue.svg"/>
             </a>
@@ -1953,115 +1494,115 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/minzdrav-zaregistriroval-vaktsinu-sputnik-layt-s-obnovlennym-sostavom/">
+                            <a href="/stopkoronavirus/rospotrebnadzor-rekomendoval-perevozit-patsientov-s-podozreniem-na-gripp-i-kovid-v-maskakh/">
                                 <picture>
                                     <source
                                         type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/93e/u9z6hw84hfbdu3rz1flpaf4ijfyksvrk/RIA_6409402.HR.webp 1x"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/735/pw9j6sp2jrv60m2blzx6i6xzelgw0z3e/RIA_6675131.HR.webp 1x"
                                     >
                                     <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/93e/u9z6hw84hfbdu3rz1flpaf4ijfyksvrk/RIA_6409402.HR.jpg"
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/735/pw9j6sp2jrv60m2blzx6i6xzelgw0z3e/RIA_6675131.HR.jpg"
                                         loading="lazy"
-                                        alt="Минздрав зарегистрировал вакцину «Спутник Лайт» с обновленным составом"
+                                        alt="Роспотребнадзор рекомендовал перевозить пациентов с подозрением на грипп и ковид в масках"
                                     >
                                 </picture>
                             </a>
                         </div>
                                         <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/minzdrav-zaregistriroval-vaktsinu-sputnik-layt-s-obnovlennym-sostavom/">Минздрав зарегистрировал вакцину «Спутник Лайт» с обновленным составом</a></h3>
-                        <div class="article-list__item-date">11 декабря</div>
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/rospotrebnadzor-rekomendoval-perevozit-patsientov-s-podozreniem-na-gripp-i-kovid-v-maskakh/">Роспотребнадзор рекомендовал перевозить пациентов с подозрением на грипп и ковид в масках</a></h3>
+                        <div class="article-list__item-date">13 января</div>
                     </div>
                 </div>
             </swiper-slide>
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/obnovlennyy-sputnik-layt-postupit-v-grazhdanskiy-oborot-v-nachale-nedeli/">
+                            <a href="/stopkoronavirus/anna-popova-novye-shtammy-koronavirusa-za-proshedshiy-god-ne-stali-opasnee-dlya-cheloveka/">
                                 <picture>
                                     <source
                                         type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/232/xkdshbrblxuydqxus2oan115yly33mdx/RIA_8508898.HR-_1_.webp 1x"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/73d/3ez73qq1cxfteqtzwa7gy8drg26epnob/RIA_6345197.HR.webp 1x"
                                     >
                                     <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/232/xkdshbrblxuydqxus2oan115yly33mdx/RIA_8508898.HR-_1_.jpg"
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/73d/3ez73qq1cxfteqtzwa7gy8drg26epnob/RIA_6345197.HR.jpg"
                                         loading="lazy"
-                                        alt="Обновленный «Спутник Лайт» поступит в гражданский оборот в начале недели"
+                                        alt="Анна Попова: Новые штаммы коронавируса за прошедший год не стали опаснее для человека"
                                     >
                                 </picture>
                             </a>
                         </div>
                                         <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/obnovlennyy-sputnik-layt-postupit-v-grazhdanskiy-oborot-v-nachale-nedeli/">Обновленный «Спутник Лайт» поступит в гражданский оборот в начале недели</a></h3>
-                        <div class="article-list__item-date">10 декабря</div>
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/anna-popova-novye-shtammy-koronavirusa-za-proshedshiy-god-ne-stali-opasnee-dlya-cheloveka/">Анна Попова: Новые штаммы коронавируса за прошедший год не стали опаснее для человека</a></h3>
+                        <div class="article-list__item-date">12 января</div>
                     </div>
                 </div>
             </swiper-slide>
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/regiony-stali-aktivnee-zakupat-vaktsinu-ot-kovida-konvasel/">
+                            <a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-40-958-chelovek/">
                                 <picture>
                                     <source
                                         type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/e83/dfv7sq939zpf8neefzzgxj4auxl89uax/RIA.webp 1x"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/05c/cmkqq4svl7zus0em9a3gt5npztchcnr2/RIA_8118672.HR.webp 1x"
                                     >
                                     <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/e83/dfv7sq939zpf8neefzzgxj4auxl89uax/RIA.jpg"
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/05c/cmkqq4svl7zus0em9a3gt5npztchcnr2/RIA_8118672.HR.jpg"
                                         loading="lazy"
-                                        alt="Регионы стали активнее закупать вакцину от ковида «Конвасэл»"
+                                        alt="В России за неделю выздоровели 40 958 человек"
                                     >
                                 </picture>
                             </a>
                         </div>
                                         <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/regiony-stali-aktivnee-zakupat-vaktsinu-ot-kovida-konvasel/">Регионы стали активнее закупать вакцину от ковида «Конвасэл»</a></h3>
-                        <div class="article-list__item-date">8 декабря</div>
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-40-958-chelovek/">В России за неделю выздоровели 40 958 человек</a></h3>
+                        <div class="article-list__item-date">9 января</div>
                     </div>
                 </div>
             </swiper-slide>
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/rezultaty-issledovaniy-obnovlennogo-sputnika-peredany-v-minzdrav/">
+                            <a href="/stopkoronavirus/glava-voz-prizval-vsekh-nadet-maski-iz-za-rosta-zabolevaemosti-koronavirusom-/">
                                 <picture>
                                     <source
                                         type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/e78/4wu9i1ts820gn02iz4m4pi8y5ubdzapz/RIA_8423867.HR.webp 1x"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/954/53jaq9jaqdpkwgdfap3a20brq6a643n7/RIA_8111059.HR.webp 1x"
                                     >
                                     <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/e78/4wu9i1ts820gn02iz4m4pi8y5ubdzapz/RIA_8423867.HR.jpg"
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/954/53jaq9jaqdpkwgdfap3a20brq6a643n7/RIA_8111059.HR.jpg"
                                         loading="lazy"
-                                        alt="Результаты исследований обновленного «Спутника» переданы в Минздрав"
+                                        alt="Глава ВОЗ призвал всех надеть маски из-за роста заболеваемости коронавирусом "
                                     >
                                 </picture>
                             </a>
                         </div>
                                         <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/rezultaty-issledovaniy-obnovlennogo-sputnika-peredany-v-minzdrav/">Результаты исследований обновленного «Спутника» переданы в Минздрав</a></h3>
-                        <div class="article-list__item-date">6 декабря</div>
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/glava-voz-prizval-vsekh-nadet-maski-iz-za-rosta-zabolevaemosti-koronavirusom-/">Глава ВОЗ призвал всех надеть маски из-за роста заболеваемости коронавирусом </a></h3>
+                        <div class="article-list__item-date">6 января</div>
                     </div>
                 </div>
             </swiper-slide>
                     <swiper-slide>
                 <div class="article-list__item">
                                             <div class="article-list__item-img">
-                            <a href="/stopkoronavirus/klinicheskie-issledovaniya-obnovlennogo-detskogo-sputnika-zavershat-v-yanvare/">
+                            <a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-89-424-cheloveka/">
                                 <picture>
                                     <source
                                         type="image/webp"
-                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/0d3/sssa0o4x4xw1rm2lvtlnx0hane9z8gb9/RIA_6750182.HR.webp 1x"
+                                        srcset="https://cdn.obyasnyaem.ru/upload/webp/95d/30rcz4ly2aomhrhjkwzxivmf5f297lu3/RIA_6410191.HR.webp 1x"
                                     >
                                     <img
-                                        src="https://cdn.obyasnyaem.ru/upload/iblock/0d3/sssa0o4x4xw1rm2lvtlnx0hane9z8gb9/RIA_6750182.HR.jpg"
+                                        src="https://cdn.obyasnyaem.ru/upload/iblock/95d/30rcz4ly2aomhrhjkwzxivmf5f297lu3/RIA_6410191.HR.jpg"
                                         loading="lazy"
-                                        alt="Клинические исследования обновленного детского «Спутника» завершат в январе"
+                                        alt="В России за неделю выздоровели 89 424 человека"
                                     >
                                 </picture>
                             </a>
                         </div>
                                         <div class="article-list__item-text">
-                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/klinicheskie-issledovaniya-obnovlennogo-detskogo-sputnika-zavershat-v-yanvare/">Клинические исследования обновленного детского «Спутника» завершат в январе</a></h3>
-                        <div class="article-list__item-date">6 декабря</div>
+                        <h3 class="article-list__item-title"><a href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-89-424-cheloveka/">В России за неделю выздоровели 89 424 человека</a></h3>
+                        <div class="article-list__item-date">2 января</div>
                     </div>
                 </div>
             </swiper-slide>
@@ -2078,62 +1619,50 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
             <div class="article-aside__item">
             <div class="article-aside__item-title">
                 <a
-                    href="/stopkoronavirus/minzdrav-zaregistriroval-vaktsinu-sputnik-layt-s-obnovlennym-sostavom/"
+                    href="/stopkoronavirus/rospotrebnadzor-rekomendoval-perevozit-patsientov-s-podozreniem-na-gripp-i-kovid-v-maskakh/"
                     @click="
                                                                             vkHandler('view_content');
                                             "
                 >
-                    Минздрав зарегистрировал вакцину «Спутник Лайт» с обновленным составом                </a>
+                    Роспотребнадзор рекомендовал перевозить пациентов с подозрением на грипп и ковид в масках                </a>
             </div>
-            <div class="article-aside__item-date">11 декабря 2023</div>
+            <div class="article-aside__item-date">13 января 2024</div>
         </div>
             <div class="article-aside__item">
             <div class="article-aside__item-title">
                 <a
-                    href="/stopkoronavirus/obnovlennyy-sputnik-layt-postupit-v-grazhdanskiy-oborot-v-nachale-nedeli/"
+                    href="/stopkoronavirus/anna-popova-novye-shtammy-koronavirusa-za-proshedshiy-god-ne-stali-opasnee-dlya-cheloveka/"
                     @click="
                                                                             vkHandler('view_content');
                                             "
                 >
-                    Обновленный «Спутник Лайт» поступит в гражданский оборот в начале недели                </a>
+                    Анна Попова: Новые штаммы коронавируса за прошедший год не стали опаснее для человека                </a>
             </div>
-            <div class="article-aside__item-date">10 декабря 2023</div>
+            <div class="article-aside__item-date">12 января 2024</div>
         </div>
             <div class="article-aside__item">
             <div class="article-aside__item-title">
                 <a
-                    href="/stopkoronavirus/regiony-stali-aktivnee-zakupat-vaktsinu-ot-kovida-konvasel/"
+                    href="/stopkoronavirus/v-rossii-za-nedelyu-vyzdoroveli-40-958-chelovek/"
                     @click="
                                                                             vkHandler('view_content');
                                             "
                 >
-                    Регионы стали активнее закупать вакцину от ковида «Конвасэл»                </a>
+                    В России за неделю выздоровели 40 958 человек                </a>
             </div>
-            <div class="article-aside__item-date">8 декабря 2023</div>
+            <div class="article-aside__item-date">9 января 2024</div>
         </div>
             <div class="article-aside__item">
             <div class="article-aside__item-title">
                 <a
-                    href="/stopkoronavirus/rezultaty-issledovaniy-obnovlennogo-sputnika-peredany-v-minzdrav/"
+                    href="/stopkoronavirus/glava-voz-prizval-vsekh-nadet-maski-iz-za-rosta-zabolevaemosti-koronavirusom-/"
                     @click="
                                                                             vkHandler('view_content');
                                             "
                 >
-                    Результаты исследований обновленного «Спутника» переданы в Минздрав                </a>
+                    Глава ВОЗ призвал всех надеть маски из-за роста заболеваемости коронавирусом                 </a>
             </div>
-            <div class="article-aside__item-date">6 декабря 2023</div>
-        </div>
-            <div class="article-aside__item">
-            <div class="article-aside__item-title">
-                <a
-                    href="/stopkoronavirus/klinicheskie-issledovaniya-obnovlennogo-detskogo-sputnika-zavershat-v-yanvare/"
-                    @click="
-                                                                            vkHandler('view_content');
-                                            "
-                >
-                    Клинические исследования обновленного детского «Спутника» завершат в январе                </a>
-            </div>
-            <div class="article-aside__item-date">6 декабря 2023</div>
+            <div class="article-aside__item-date">6 января 2024</div>
         </div>
     </div>
 
@@ -2176,7 +1705,7 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
         </div>
         <div class="footer__bottom">
             <div class="footer__copy">
-                © <a href="https://национальныеприоритеты.рф">АНО&nbsp;«Национальные приоритеты»</a>, 2022-2023            </div>
+                © <a href="https://национальныеприоритеты.рф">АНО&nbsp;«Национальные приоритеты»</a>, 2022-2024            </div>
             <div class="footer__legal">
                 <a target="_blank" rel="noopener noreferrer" href="/upload/Политика_конфиденциальности_объясняем_рф.pdf">
                     Политика конфиденциальности
@@ -2215,10 +1744,10 @@ _tmr.push({id: "3281616", type: "pageView", start: (new Date()).getTime()});
 <script src="https://cdn.obyasnyaem.ru/frontend/build/js/prebid-ads-popunder-ads-banner.62658dc0.js"></script><script src="https://cdn.obyasnyaem.ru/frontend/build/js/critical.b41d4717.js"></script><script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1664392974220555"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1702378630','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'902ea31c55148cae2a0d6ec84366935c'});</script><script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16458056617365"></script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1705412149','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4dd9da31113d9d262f37e3af534e8b20'});</script><script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16458056617365"></script>
 <script type="text/javascript">BX.setJSList(['/local/templates/media_default/assets/js/vendor.min.js','/local/templates/media_default/assets/js/main.js']);</script>
 <script type="text/javascript">BX.setCSSList(['/local/templates/media_default/styles.css','/local/templates/media_default/template_styles.css']);</script>
-<script type="text/javascript"  src="/bitrix/cache/js/s1/media_default/template_33205a23f9a1c0c1c72acd270060f4be/template_33205a23f9a1c0c1c72acd270060f4be_v1.js?1702309132167824"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/media_default/template_43cfd930c0d53e739240c42daed321d1/template_43cfd930c0d53e739240c42daed321d1_v1.js?1705404701167824"></script>
 
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

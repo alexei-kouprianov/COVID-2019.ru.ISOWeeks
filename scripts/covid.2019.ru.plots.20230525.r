@@ -73,6 +73,12 @@ points(covid.2019.ru.ISOweeks.plotting.df$TIME,
 	lwd = h.plotline_width
 	)
 
+legend("topleft",
+	fill = c(colorBlind7[1], colorBlind7[3], 1),
+	legend = c("Confirmed", "Hospitalized", "Deaths"),
+	bty = "n"
+	)
+
 axis(2, at = 0:6, labels = c(1, 10, 100, "1K", "10K", "100K", "1M"))
 axis.POSIXct(1,
 	at = timeticks.quarters,
