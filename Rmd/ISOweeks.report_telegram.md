@@ -1,8 +1,8 @@
-**Коронавирус в России.** Графический update на **2024-01-14 12:34:56**
-(за неделю, заканчивающуюся **2024-01-14**). Прирост зарегистрированных
-случаев за неделю – **26993**. Прирост связанных с COVID смертей за
-неделю: **150**. Суммарный прирост новых случаев за последние две недели
-на 100 тыс. населения – **36.13**
+**Коронавирус в России.** Графический update на **2024-01-21 12:34:56**
+(за неделю, заканчивающуюся **2024-01-21**). Прирост зарегистрированных
+случаев за неделю – **26000**. Прирост связанных с COVID смертей за
+неделю: **141**. Суммарный прирост новых случаев за последние две недели
+на 100 тыс. населения – **36.19**
 
 **Лидеры по абсолютному приросту и госпитализациям за неделю (выявленные
 : госпитализированные : умершие)**:
@@ -15,46 +15,31 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Москва :: 4272 : 548 : 22</td>
+<td style="text-align: left;">Москва :: 5066 : 555 : 23</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Башкортостан :: 3267 : 167 : 6</td>
+<td style="text-align: left;">Санкт-Петербург :: 2987 : 281 : 17</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Санкт-Петербург :: 1603 : 295 : 28</td>
+<td style="text-align: left;">Башкортостан :: 1181 : 101 : 7</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Татарстан :: 961 : 111 : 0</td>
+<td style="text-align: left;">Воронежская обл. :: 968 : 64 : 0</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Самарская обл. :: 842 : 81 : 1</td>
+<td style="text-align: left;">Краснодарский кр. :: 791 : 152 : 6</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Краснодарский кр. :: 756 : 168 : 5</td>
+<td style="text-align: left;">Самарская обл. :: 741 : 62 : 5</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Воронежская обл. :: 710 : 90 : 0</td>
+<td style="text-align: left;">Татарстан :: 579 : 102 : 0</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Ивановская обл. :: 700 : 40 : 2</td>
+<td style="text-align: left;">Свердловская обл. :: 474 : 88 : 7</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Новосибирская обл. :: 595 : 48 : 0</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Свердловская обл. :: 576 : 145 : 8</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Пермский кр. :: 546 : 50 : 6</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Саратовская обл. :: 502 : 64 : 0</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Кемеровская обл. :: 492 : 83 : 12</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Челябинская обл. :: 357 : 95 : 9</td>
+<td style="text-align: left;">Челябинская обл. :: 335 : 72 : 11</td>
 </tr>
 </tbody>
 </table>
